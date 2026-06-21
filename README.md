@@ -1,9 +1,3 @@
-# 🏠 HOUSE PREDICTION MODEL
-
-A complete Machine Learning project to predict residential property prices across major Indian cities, built end-to-end following the standard ML lifecycle — from raw data to a deployed web application.
-
-## 📁 Project Structure
-```
 HOUSE_PREDICTION_MODEL/
 ├── Dataset/
 │   └── india_house_prices.csv        # 1,200-row dataset (Indian housing market)
@@ -80,3 +74,4 @@ Mumbai · Delhi NCR · Bangalore · Pune · Hyderabad · Chennai · Kolkata · A
 
 ## ⚠️ Data Disclaimer
 The dataset is **synthetically generated** to realistically simulate Indian residential property pricing patterns (city-tier multipliers, locality premiums, amenity effects) for academic demonstration. It is not sourced from a live real-estate listing platform.
+"# HOUSE_PRICE_PRIDICTION_MODEL" 
