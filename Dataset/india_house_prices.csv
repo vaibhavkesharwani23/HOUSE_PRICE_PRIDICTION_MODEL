@@ -1,0 +1,1201 @@
+City,Locality_Type,Area_sqft,BHK,Bathrooms,Age_years,Floor_No,Parking,Furnishing,Clubhouse_Amenities,Gated_Community,Price_INR
+Bangalore,Developing Suburb,1850,5,5.0,22.0,9,2,Semi-Furnished,1,0,16105511
+Lucknow,Prime/CBD,3454,4,4.0,6.0,9,2,Semi-Furnished,0,1,18391523
+Kolkata,Prime/CBD,1902,2,1.0,6.0,10,1,Unfurnished,1,1,13638748
+Hyderabad,Mid-tier,525,1,1.0,14.0,16,0,Unfurnished,0,0,2893100
+Delhi NCR,Mid-tier,2842,1,1.0,33.0,4,0,Semi-Furnished,0,1,26082385
+Delhi NCR,Developing Suburb,1216,3,2.0,3.0,12,1,Fully-Furnished,0,0,13839357
+Mumbai,Developing Suburb,3328,2,,13.0,9,0,Semi-Furnished,0,1,34912896
+Ahmedabad,Mid-tier,2229,3,3.0,13.0,8,1,Unfurnished,0,0,11241448
+Hyderabad,Premium Residential,975,2,1.0,15.0,16,2,Unfurnished,0,1,7679436
+Chennai,Outskirts,2772,2,1.0,6.0,0,1,Fully-Furnished,0,1,12986414
+Mumbai,Mid-tier,1815,4,4.0,,3,0,Unfurnished,0,0,18417297
+Lucknow,Mid-tier,1329,3,3.0,18.0,3,1,Semi-Furnished,1,1,4561379
+Ahmedabad,Premium Residential,1863,4,3.0,1.0,17,2,Semi-Furnished,1,1,12209601
+Delhi NCR,Developing Suburb,1232,2,1.0,9.0,8,0,Unfurnished,0,0,8914370
+Delhi NCR,Developing Suburb,1454,1,1.0,16.0,24,2,Fully-Furnished,0,0,11111594
+Delhi NCR,Premium Residential,2048,2,1.0,36.0,17,2,Semi-Furnished,1,0,26421898
+Bangalore,Prime/CBD,2300,4,3.0,11.0,13,1,Semi-Furnished,1,1,37989437
+Pune,Developing Suburb,1857,3,3.0,5.0,24,2,Unfurnished,0,1,11812246
+Pune,Developing Suburb,3284,3,2.0,21.0,14,0,Unfurnished,1,0,17590580
+Delhi NCR,Premium Residential,3373,4,4.0,31.0,5,2,Semi-Furnished,1,1,42047979
+Hyderabad,Outskirts,1799,3,3.0,19.0,23,2,Semi-Furnished,0,0,7118731
+Mumbai,Premium Residential,842,5,5.0,0.0,9,1,Unfurnished,0,1,13713996
+Delhi NCR,Mid-tier,2522,1,1.0,5.0,14,2,Unfurnished,0,0,26392318
+Bangalore,Outskirts,956,1,1.0,18.0,3,1,Unfurnished,1,1,5164913
+Pune,Mid-tier,1578,1,1.0,17.0,17,1,Fully-Furnished,0,1,12292714
+Kolkata,Mid-tier,2437,3,2.0,5.0,17,0,Semi-Furnished,0,1,11808832
+Delhi NCR,Mid-tier,762,3,,32.0,24,0,Fully-Furnished,0,1,7509186
+Pune,Premium Residential,2895,2,1.0,22.0,16,0,Unfurnished,1,1,21693142
+Hyderabad,Outskirts,1657,2,1.0,22.0,11,0,Fully-Furnished,1,1,7809520
+Mumbai,Mid-tier,2241,1,1.0,25.0,6,1,Unfurnished,1,1,29007952
+Hyderabad,Outskirts,2709,5,5.0,12.0,15,2,Semi-Furnished,1,1,14996494
+Delhi NCR,Premium Residential,2250,2,2.0,6.0,10,0,Fully-Furnished,0,1,30381631
+Mumbai,Premium Residential,2572,2,2.0,14.0,13,0,Unfurnished,1,1,37690042
+Jaipur,Prime/CBD,1310,3,3.0,26.0,2,0,Semi-Furnished,1,1,6897989
+Lucknow,Developing Suburb,644,5,4.0,25.0,18,2,Unfurnished,0,1,1586416
+Ahmedabad,Mid-tier,941,1,1.0,32.0,17,0,Unfurnished,1,0,3697682
+Bangalore,Developing Suburb,2932,2,1.0,14.0,9,2,Semi-Furnished,1,1,21201102
+Mumbai,Mid-tier,2569,5,4.0,35.0,5,1,Semi-Furnished,1,1,28438977
+Chennai,Outskirts,2572,5,,26.0,12,1,Semi-Furnished,0,1,10534097
+Pune,Premium Residential,1972,1,1.0,4.0,9,1,Semi-Furnished,1,1,20402738
+Mumbai,Developing Suburb,2617,5,5.0,1.0,17,2,Semi-Furnished,1,1,32889202
+Pune,Developing Suburb,523,5,5.0,32.0,19,0,Unfurnished,0,0,2789643
+Mumbai,Developing Suburb,3093,5,4.0,15.0,15,0,Unfurnished,0,1,34384553
+Jaipur,Developing Suburb,2131,2,1.0,22.0,24,0,Fully-Furnished,0,1,7823077
+Delhi NCR,Developing Suburb,1185,1,1.0,,24,0,Unfurnished,1,1,7747892
+Chennai,Mid-tier,2443,5,4.0,15.0,5,0,Semi-Furnished,1,0,14958772
+Bangalore,Premium Residential,2648,5,4.0,13.0,12,2,Unfurnished,0,0,31093634
+Pune,Prime/CBD,2816,2,1.0,28.0,3,1,Semi-Furnished,0,0,26341035
+Hyderabad,Outskirts,1196,1,1.0,25.0,22,0,Semi-Furnished,0,1,4765699
+Delhi NCR,Mid-tier,476,3,2.0,34.0,13,1,Unfurnished,1,1,3961039
+Lucknow,Developing Suburb,458,2,2.0,14.0,0,2,Unfurnished,0,0,1208080
+Kolkata,Mid-tier,2878,1,1.0,2.0,19,2,Semi-Furnished,1,1,16208480
+Jaipur,Prime/CBD,3085,5,4.0,22.0,4,0,Unfurnished,1,1,17110366
+Jaipur,Premium Residential,1923,1,1.0,28.0,7,2,Unfurnished,1,1,7821039
+Hyderabad,Developing Suburb,2336,1,1.0,33.0,11,1,Semi-Furnished,0,1,11413093
+Jaipur,Mid-tier,2556,1,1.0,32.0,1,0,Unfurnished,0,1,7077902
+Mumbai,Premium Residential,3455,3,2.0,22.0,11,0,Fully-Furnished,0,0,58737491
+Delhi NCR,Mid-tier,1701,1,1.0,6.0,4,1,Semi-Furnished,0,1,19027865
+Mumbai,Prime/CBD,467,3,3.0,2.0,21,0,Unfurnished,0,0,9171914
+Bangalore,Mid-tier,2752,5,5.0,31.0,4,0,Semi-Furnished,1,1,28139725
+Bangalore,Premium Residential,2332,3,3.0,30.0,12,1,Semi-Furnished,0,1,24930488
+Delhi NCR,Developing Suburb,3121,5,4.0,17.0,8,0,Unfurnished,0,0,26142292
+Ahmedabad,Premium Residential,764,5,4.0,6.0,9,0,Semi-Furnished,0,0,4663067
+Bangalore,Mid-tier,1220,3,3.0,0.0,0,1,Unfurnished,0,1,12480662
+Delhi NCR,Prime/CBD,1802,2,2.0,13.0,2,2,Unfurnished,1,1,23679622
+Hyderabad,Prime/CBD,2790,4,4.0,31.0,17,1,Unfurnished,0,1,23994734
+Mumbai,Mid-tier,1346,1,1.0,5.0,11,0,Unfurnished,0,0,15229873
+Ahmedabad,Mid-tier,3346,4,4.0,38.0,2,1,Unfurnished,1,0,12936961
+Mumbai,Mid-tier,1977,1,1.0,9.0,24,0,Semi-Furnished,0,1,28030219
+Lucknow,Premium Residential,1777,1,1.0,6.0,8,0,Semi-Furnished,0,0,7641891
+Kolkata,Developing Suburb,1839,5,5.0,25.0,1,1,Semi-Furnished,0,1,7888451
+Delhi NCR,Developing Suburb,1161,1,1.0,33.0,2,0,Semi-Furnished,0,0,7718596
+Mumbai,Developing Suburb,740,1,1.0,29.0,13,2,Fully-Furnished,0,1,7444178
+Ahmedabad,Prime/CBD,3389,3,2.0,35.0,3,0,Semi-Furnished,0,0,15455511
+Chennai,Mid-tier,782,4,3.0,20.0,24,1,Semi-Furnished,1,0,5470862
+Kolkata,Prime/CBD,1403,3,3.0,16.0,18,2,Unfurnished,0,1,11179851
+Kolkata,Premium Residential,1956,1,1.0,32.0,12,2,Fully-Furnished,1,1,12497058
+Mumbai,Outskirts,699,5,4.0,9.0,6,0,Unfurnished,1,0,6040653
+Bangalore,Premium Residential,538,3,3.0,11.0,11,1,Unfurnished,1,0,6141195
+Mumbai,Mid-tier,758,3,3.0,,2,0,Semi-Furnished,0,0,9416517
+Ahmedabad,Mid-tier,1235,2,1.0,31.0,22,0,Unfurnished,0,1,4886459
+Chennai,Developing Suburb,1922,1,1.0,14.0,22,1,Unfurnished,1,1,10063741
+Bangalore,Mid-tier,2027,5,4.0,26.0,8,1,Semi-Furnished,1,0,17305703
+Mumbai,Prime/CBD,2382,3,2.0,27.0,1,0,Semi-Furnished,1,1,44332794
+Bangalore,Mid-tier,1703,3,3.0,16.0,21,2,Semi-Furnished,0,1,16413366
+Bangalore,Mid-tier,2930,5,5.0,1.0,8,0,Fully-Furnished,1,1,40201433
+Kolkata,Prime/CBD,1308,1,1.0,35.0,11,2,Unfurnished,0,1,7427385
+Chennai,Mid-tier,1534,2,1.0,6.0,11,0,Unfurnished,0,0,9549554
+Jaipur,Prime/CBD,3313,3,2.0,12.0,14,1,Semi-Furnished,0,0,18391985
+Pune,Prime/CBD,2586,2,2.0,14.0,1,2,Unfurnished,0,0,23748339
+Mumbai,Mid-tier,1395,4,4.0,24.0,17,1,Semi-Furnished,0,1,19273012
+Kolkata,Premium Residential,2882,1,1.0,22.0,12,1,Unfurnished,1,1,19812987
+Kolkata,Mid-tier,2956,4,3.0,21.0,13,1,Semi-Furnished,1,1,15668299
+Hyderabad,Developing Suburb,2720,4,4.0,25.0,4,1,Semi-Furnished,1,0,15122397
+Kolkata,Developing Suburb,2551,4,4.0,32.0,9,1,Semi-Furnished,0,1,8417938
+Pune,Premium Residential,1637,1,1.0,10.0,11,0,Semi-Furnished,1,0,14186162
+Pune,Premium Residential,2184,1,1.0,9.0,9,2,Semi-Furnished,0,0,21628042
+Bangalore,Prime/CBD,3209,5,4.0,24.0,23,0,Unfurnished,0,1,40420692
+Mumbai,Mid-tier,3234,2,1.0,36.0,10,0,Unfurnished,0,0,34451820
+Mumbai,Developing Suburb,564,2,1.0,37.0,24,0,Unfurnished,0,0,4548337
+Mumbai,Prime/CBD,1398,5,4.0,23.0,1,1,Semi-Furnished,0,1,27606908
+Chennai,Outskirts,2967,5,4.0,39.0,4,0,Unfurnished,0,0,11220741
+Bangalore,Prime/CBD,1707,4,4.0,32.0,6,2,Semi-Furnished,1,0,19691760
+Pune,Mid-tier,2964,5,5.0,16.0,5,0,Unfurnished,1,0,24464122
+Jaipur,Developing Suburb,1056,3,2.0,23.0,21,1,Semi-Furnished,0,1,2879419
+Delhi NCR,Outskirts,3060,2,2.0,36.0,22,2,Fully-Furnished,1,1,19410274
+Bangalore,Developing Suburb,2611,5,4.0,1.0,2,2,Unfurnished,1,0,20299936
+Kolkata,Developing Suburb,2309,3,3.0,31.0,12,2,Unfurnished,1,1,8696414
+Delhi NCR,Mid-tier,2446,3,2.0,23.0,2,2,Unfurnished,1,0,21526992
+Mumbai,Developing Suburb,2511,3,3.0,8.0,24,0,Semi-Furnished,0,1,27410097
+Delhi NCR,Prime/CBD,1540,3,3.0,3.0,23,1,Semi-Furnished,1,1,24664671
+Delhi NCR,Outskirts,2289,4,3.0,16.0,20,2,Unfurnished,1,1,16515986
+Jaipur,Mid-tier,666,3,2.0,16.0,5,2,Semi-Furnished,1,1,2711757
+Ahmedabad,Developing Suburb,2245,4,4.0,29.0,10,1,Unfurnished,1,1,7592257
+Chennai,Mid-tier,2108,4,4.0,39.0,16,0,Semi-Furnished,1,1,13221635
+Ahmedabad,Mid-tier,2693,3,2.0,10.0,9,2,Semi-Furnished,1,1,12353041
+Ahmedabad,Mid-tier,2842,2,2.0,20.0,11,0,Semi-Furnished,0,1,12912046
+Delhi NCR,Developing Suburb,1910,3,2.0,20.0,16,0,Unfurnished,0,1,14677914
+Jaipur,Prime/CBD,875,3,2.0,17.0,3,0,Fully-Furnished,0,1,5173253
+Hyderabad,Prime/CBD,1376,3,3.0,28.0,1,0,Semi-Furnished,0,0,12199040
+Ahmedabad,Premium Residential,1607,2,1.0,23.0,10,2,Unfurnished,0,0,8959067
+Jaipur,Premium Residential,1443,1,1.0,9.0,6,2,Unfurnished,1,1,7096119
+Bangalore,Outskirts,2360,1,1.0,16.0,1,0,Semi-Furnished,1,1,13650434
+Mumbai,Premium Residential,957,4,3.0,17.0,17,0,Fully-Furnished,1,1,16460094
+Delhi NCR,Outskirts,1417,4,4.0,19.0,20,1,Fully-Furnished,1,0,8397961
+Bangalore,Mid-tier,2005,2,1.0,36.0,3,1,Semi-Furnished,1,0,16207565
+Ahmedabad,Premium Residential,1282,5,4.0,17.0,7,1,Fully-Furnished,1,1,7727736
+Ahmedabad,Developing Suburb,2594,1,1.0,16.0,19,2,Unfurnished,1,1,7720830
+Mumbai,Developing Suburb,1065,4,4.0,8.0,13,1,Unfurnished,1,0,11725354
+Pune,Mid-tier,3067,1,1.0,13.0,11,2,Fully-Furnished,0,1,24508771
+Bangalore,Mid-tier,2171,2,2.0,28.0,21,2,Semi-Furnished,0,1,20160604
+Delhi NCR,Developing Suburb,3267,2,1.0,,20,2,Semi-Furnished,0,1,27792608
+Mumbai,Premium Residential,1263,5,4.0,3.0,17,2,Semi-Furnished,1,1,27423731
+Bangalore,Outskirts,981,5,4.0,17.0,10,1,Fully-Furnished,1,1,7344547
+Jaipur,Outskirts,3470,2,2.0,19.0,7,0,Semi-Furnished,0,1,7208251
+Bangalore,Developing Suburb,1094,4,4.0,8.0,1,0,Fully-Furnished,0,1,9344766
+Pune,Premium Residential,1651,1,1.0,12.0,24,0,Semi-Furnished,1,0,15553228
+Chennai,Developing Suburb,2010,3,2.0,14.0,14,1,Unfurnished,1,1,11230852
+Bangalore,Prime/CBD,1639,5,5.0,26.0,8,0,Fully-Furnished,0,0,21841700
+Lucknow,Prime/CBD,2854,3,3.0,14.0,18,1,Unfurnished,1,0,13689768
+Lucknow,Premium Residential,798,4,4.0,27.0,19,1,Fully-Furnished,1,1,3670952
+Delhi NCR,Mid-tier,2346,5,4.0,36.0,7,1,Semi-Furnished,1,1,22988683
+Pune,Developing Suburb,1114,3,3.0,18.0,24,0,Semi-Furnished,0,1,6176817
+Bangalore,Developing Suburb,1103,4,3.0,25.0,18,0,Semi-Furnished,0,1,7016863
+Delhi NCR,Developing Suburb,3208,1,1.0,25.0,4,0,Unfurnished,0,1,22276583
+Mumbai,Mid-tier,2946,4,3.0,24.0,10,2,Unfurnished,0,1,36867830
+Hyderabad,Mid-tier,2114,5,4.0,25.0,14,1,Fully-Furnished,1,1,16010537
+Pune,Mid-tier,2372,2,1.0,,7,2,Fully-Furnished,0,0,17998852
+Mumbai,Outskirts,3421,1,1.0,27.0,18,1,Unfurnished,1,0,27462370
+Delhi NCR,Prime/CBD,481,3,3.0,17.0,22,0,Fully-Furnished,0,1,7772958
+Jaipur,Developing Suburb,1003,5,5.0,31.0,7,1,Fully-Furnished,1,1,3359632
+Delhi NCR,Mid-tier,2370,2,1.0,2.0,18,1,Semi-Furnished,0,1,28123127
+Mumbai,Mid-tier,2110,4,3.0,1.0,17,2,Unfurnished,1,1,33484885
+Pune,Developing Suburb,2446,2,2.0,32.0,9,1,Fully-Furnished,1,1,13963886
+Lucknow,Mid-tier,3219,5,4.0,18.0,6,0,Semi-Furnished,1,1,12154054
+Delhi NCR,Outskirts,1302,5,4.0,16.0,8,1,Fully-Furnished,0,1,9543067
+Chennai,Outskirts,764,2,,32.0,0,1,Fully-Furnished,0,0,2921149
+Kolkata,Mid-tier,562,4,4.0,11.0,18,1,Fully-Furnished,1,0,3519291
+Delhi NCR,Premium Residential,2958,2,1.0,2.0,4,2,Semi-Furnished,0,0,38420115
+Kolkata,Mid-tier,2263,5,5.0,25.0,18,1,Unfurnished,0,1,11024559
+Bangalore,Outskirts,515,5,5.0,34.0,0,1,Unfurnished,0,0,2560306
+Chennai,Premium Residential,3388,3,3.0,7.0,14,2,Unfurnished,1,1,31987959
+Chennai,Mid-tier,2784,3,3.0,35.0,15,2,Unfurnished,1,1,17595967
+Hyderabad,Mid-tier,1280,1,1.0,6.0,22,2,Semi-Furnished,0,0,9048223
+Mumbai,Developing Suburb,3184,5,4.0,35.0,6,2,Semi-Furnished,0,0,24705116
+Ahmedabad,Premium Residential,1239,3,3.0,15.0,11,0,Fully-Furnished,0,1,7793164
+Bangalore,Developing Suburb,2594,2,2.0,23.0,7,0,Unfurnished,1,1,18559755
+Delhi NCR,Outskirts,1746,4,4.0,0.0,4,1,Semi-Furnished,0,1,13623583
+Mumbai,Premium Residential,2890,2,1.0,24.0,9,0,Unfurnished,0,1,38035899
+Hyderabad,Premium Residential,3284,4,3.0,9.0,20,1,Unfurnished,1,1,24184863
+Chennai,Outskirts,1436,3,2.0,15.0,4,0,Unfurnished,1,1,6382834
+Mumbai,Premium Residential,1342,1,1.0,15.0,16,2,Semi-Furnished,1,1,21013963
+Pune,Developing Suburb,2124,2,2.0,7.0,4,2,Unfurnished,1,1,14330907
+Delhi NCR,Mid-tier,2734,2,2.0,28.0,21,0,Semi-Furnished,0,0,23704205
+Chennai,Premium Residential,3167,2,1.0,38.0,14,0,Unfurnished,1,1,19758947
+Delhi NCR,Outskirts,1537,4,3.0,27.0,12,1,Fully-Furnished,0,1,10720551
+Chennai,Mid-tier,2927,3,2.0,5.0,0,1,Fully-Furnished,1,0,23965891
+Bangalore,Mid-tier,421,2,1.0,15.0,10,1,Fully-Furnished,0,0,4224258
+Jaipur,Mid-tier,2149,2,2.0,19.0,22,2,Fully-Furnished,1,1,9823850
+Mumbai,Mid-tier,1082,1,1.0,15.0,0,2,Fully-Furnished,1,0,14570780
+Bangalore,Premium Residential,3353,1,1.0,6.0,10,2,Fully-Furnished,0,0,36557416
+Mumbai,Mid-tier,2233,3,2.0,13.0,17,2,Semi-Furnished,1,1,32316463
+Jaipur,Outskirts,2767,3,2.0,25.0,17,1,Unfurnished,0,1,5572950
+Ahmedabad,Premium Residential,525,5,4.0,25.0,20,2,Unfurnished,0,1,2952261
+Delhi NCR,Developing Suburb,676,1,1.0,13.0,15,2,Unfurnished,0,1,5798049
+Chennai,Mid-tier,2399,5,4.0,6.0,12,2,Semi-Furnished,0,1,18660481
+Ahmedabad,Developing Suburb,1627,4,4.0,32.0,6,2,Semi-Furnished,0,1,5762918
+Hyderabad,Premium Residential,2641,5,5.0,25.0,0,0,Fully-Furnished,1,0,22128310
+Pune,Outskirts,1095,2,2.0,19.0,15,1,Fully-Furnished,0,1,5727143
+Delhi NCR,Mid-tier,1709,5,5.0,2.0,0,1,Semi-Furnished,0,1,17082780
+Mumbai,Premium Residential,456,3,3.0,3.0,16,2,Semi-Furnished,0,1,7650369
+Jaipur,Prime/CBD,418,4,4.0,25.0,5,0,Fully-Furnished,1,1,2893510
+Jaipur,Premium Residential,2711,2,1.0,10.0,1,1,Unfurnished,1,1,11594594
+Chennai,Mid-tier,3241,5,4.0,1.0,16,1,Semi-Furnished,1,1,27820261
+Bangalore,Mid-tier,512,4,4.0,13.0,5,2,Unfurnished,1,0,5047265
+Bangalore,Developing Suburb,941,4,3.0,29.0,13,2,Semi-Furnished,1,1,6116181
+Kolkata,Mid-tier,3094,2,2.0,11.0,17,1,Unfurnished,1,1,14003257
+Jaipur,Premium Residential,978,5,4.0,25.0,5,1,Fully-Furnished,1,1,5677536
+Jaipur,Mid-tier,1488,4,3.0,32.0,9,0,Semi-Furnished,0,1,4827956
+Kolkata,Developing Suburb,424,4,3.0,12.0,23,1,Unfurnished,1,1,1756538
+Chennai,Premium Residential,1972,1,1.0,13.0,17,1,Unfurnished,1,0,14738713
+Mumbai,Premium Residential,2448,4,3.0,23.0,8,2,Semi-Furnished,1,0,37442393
+Delhi NCR,Prime/CBD,3358,1,1.0,33.0,7,1,Fully-Furnished,1,1,51012481
+Jaipur,Developing Suburb,1972,5,5.0,25.0,9,2,Semi-Furnished,1,1,5960375
+Hyderabad,Developing Suburb,540,5,5.0,20.0,16,1,Semi-Furnished,1,0,2609834
+Mumbai,Mid-tier,2167,5,4.0,27.0,22,1,Unfurnished,0,0,28377787
+Mumbai,Developing Suburb,1047,3,3.0,35.0,5,1,Semi-Furnished,0,1,9193265
+Chennai,Developing Suburb,2635,5,4.0,39.0,13,0,Semi-Furnished,0,1,12010779
+Mumbai,Mid-tier,600,4,,,21,2,Semi-Furnished,1,1,10567637
+Delhi NCR,Developing Suburb,656,2,,8.0,21,0,Unfurnished,1,0,5509574
+Hyderabad,Premium Residential,946,1,1.0,22.0,5,1,Semi-Furnished,1,1,8269264
+Chennai,Prime/CBD,2641,3,2.0,14.0,6,0,Semi-Furnished,1,0,27952285
+Chennai,Premium Residential,3150,5,5.0,12.0,11,2,Fully-Furnished,1,1,31007909
+Delhi NCR,Prime/CBD,1201,5,4.0,22.0,2,1,Fully-Furnished,1,1,22006292
+Kolkata,Mid-tier,1341,2,2.0,16.0,13,0,Semi-Furnished,1,0,6965510
+Delhi NCR,Outskirts,813,2,1.0,1.0,21,0,Semi-Furnished,1,1,5842367
+Bangalore,Prime/CBD,2414,3,2.0,19.0,18,2,Unfurnished,1,1,33418013
+Kolkata,Premium Residential,1781,1,1.0,19.0,22,0,Fully-Furnished,0,1,10390643
+Chennai,Mid-tier,1498,5,5.0,2.0,15,2,Semi-Furnished,1,1,13251822
+Ahmedabad,Outskirts,1309,3,3.0,11.0,6,1,Unfurnished,0,0,3824691
+Chennai,Premium Residential,587,4,4.0,39.0,7,1,Unfurnished,0,1,3977289
+Hyderabad,Mid-tier,2415,4,3.0,1.0,17,0,Fully-Furnished,1,1,17514110
+Mumbai,Prime/CBD,1713,3,3.0,35.0,24,1,Unfurnished,1,1,32411689
+Bangalore,Premium Residential,2492,5,4.0,13.0,12,1,Semi-Furnished,1,1,33277487
+Delhi NCR,Outskirts,2530,3,3.0,15.0,20,0,Semi-Furnished,0,1,16926165
+Delhi NCR,Outskirts,1546,5,5.0,18.0,8,1,Unfurnished,0,1,9695670
+Lucknow,Prime/CBD,757,2,2.0,33.0,9,0,Unfurnished,0,1,2866246
+Bangalore,Outskirts,1951,3,3.0,5.0,20,2,Fully-Furnished,0,0,12985192
+Jaipur,Mid-tier,1489,5,4.0,12.0,22,2,Fully-Furnished,0,1,7345460
+Chennai,Developing Suburb,3383,3,3.0,35.0,8,2,Unfurnished,0,1,14915718
+Kolkata,Mid-tier,2080,3,3.0,21.0,14,0,Fully-Furnished,0,0,10540649
+Pune,Mid-tier,2822,5,4.0,17.0,19,0,Semi-Furnished,0,0,20277046
+Hyderabad,Mid-tier,561,5,4.0,11.0,1,1,Semi-Furnished,0,1,4010541
+Pune,Developing Suburb,2769,1,1.0,29.0,24,1,Semi-Furnished,1,0,14272413
+Delhi NCR,Premium Residential,849,3,3.0,39.0,12,1,Fully-Furnished,0,0,9446493
+Kolkata,Prime/CBD,1897,4,3.0,6.0,1,1,Semi-Furnished,1,1,16710933
+Delhi NCR,Premium Residential,1436,3,2.0,31.0,18,1,Unfurnished,1,0,14707848
+Mumbai,Developing Suburb,2631,3,2.0,18.0,1,0,Fully-Furnished,0,1,29792395
+Chennai,Premium Residential,2558,5,5.0,5.0,2,0,Semi-Furnished,1,1,28103542
+Delhi NCR,Developing Suburb,2350,3,3.0,19.0,5,2,Unfurnished,1,1,19395111
+Jaipur,Outskirts,2955,3,3.0,26.0,2,2,Semi-Furnished,1,1,6714658
+Lucknow,Prime/CBD,1713,4,3.0,36.0,9,2,Semi-Furnished,0,1,6957037
+Jaipur,Developing Suburb,2742,5,4.0,6.0,23,2,Fully-Furnished,1,1,10235530
+Bangalore,Mid-tier,3351,3,2.0,4.0,5,0,Semi-Furnished,1,1,39545503
+Mumbai,Developing Suburb,1638,2,2.0,10.0,22,0,Unfurnished,0,1,18822856
+Jaipur,Premium Residential,1373,1,1.0,14.0,15,0,Semi-Furnished,0,0,5510066
+Bangalore,Developing Suburb,1031,4,4.0,2.0,16,1,Semi-Furnished,0,1,9084933
+Lucknow,Developing Suburb,1990,3,2.0,4.0,18,1,Unfurnished,1,1,6518200
+Lucknow,Outskirts,1450,2,2.0,22.0,2,2,Semi-Furnished,0,1,2952967
+Ahmedabad,Developing Suburb,3180,3,3.0,36.0,17,1,Fully-Furnished,1,1,11639590
+Delhi NCR,Mid-tier,1988,3,2.0,8.0,6,0,Unfurnished,0,1,23649783
+Bangalore,Mid-tier,2768,5,5.0,14.0,8,2,Semi-Furnished,1,1,24719865
+Ahmedabad,Developing Suburb,3360,5,4.0,2.0,19,2,Unfurnished,0,1,17107142
+Bangalore,Mid-tier,2093,5,5.0,28.0,11,1,Unfurnished,0,0,17050187
+Delhi NCR,Prime/CBD,836,2,1.0,5.0,4,2,Unfurnished,1,1,14576932
+Hyderabad,Outskirts,3228,3,2.0,16.0,2,1,Unfurnished,0,1,11665442
+Jaipur,Developing Suburb,1956,1,1.0,25.0,10,1,Fully-Furnished,0,1,5744110
+Chennai,Developing Suburb,1476,4,3.0,20.0,24,2,Unfurnished,0,0,6933546
+Hyderabad,Premium Residential,1704,5,5.0,7.0,3,1,Semi-Furnished,1,0,15527273
+Mumbai,Developing Suburb,3173,5,4.0,20.0,4,1,Unfurnished,1,0,34237521
+Hyderabad,Mid-tier,2478,3,2.0,10.0,0,1,Fully-Furnished,1,1,21151047
+Lucknow,Developing Suburb,2784,3,2.0,37.0,17,1,Semi-Furnished,0,1,5814187
+Mumbai,Prime/CBD,582,2,1.0,7.0,11,2,Semi-Furnished,0,1,12313254
+Pune,Developing Suburb,3494,2,2.0,23.0,12,0,Unfurnished,1,1,20342924
+Ahmedabad,Outskirts,2991,5,4.0,34.0,8,0,Semi-Furnished,1,1,9192528
+Kolkata,Prime/CBD,1869,3,2.0,13.0,1,1,Unfurnished,0,1,12907490
+Chennai,Outskirts,3481,1,1.0,13.0,4,1,Fully-Furnished,0,1,15190658
+Chennai,Mid-tier,1879,4,4.0,9.0,12,1,Semi-Furnished,0,1,13577557
+Bangalore,Outskirts,1989,3,3.0,11.0,15,0,Semi-Furnished,1,1,13027201
+Delhi NCR,Developing Suburb,1987,3,3.0,37.0,15,1,Semi-Furnished,0,0,15661256
+Ahmedabad,Mid-tier,1059,2,2.0,33.0,23,2,Unfurnished,1,1,3976386
+Ahmedabad,Developing Suburb,559,4,4.0,9.0,2,2,Semi-Furnished,0,1,2159607
+Ahmedabad,Outskirts,3485,5,4.0,16.0,21,2,Semi-Furnished,0,1,10000967
+Jaipur,Mid-tier,2859,3,3.0,16.0,3,0,Semi-Furnished,0,1,11314343
+Pune,Mid-tier,1411,5,4.0,2.0,10,1,Semi-Furnished,0,1,12774527
+Pune,Developing Suburb,452,3,3.0,30.0,22,1,Unfurnished,0,0,1992020
+Kolkata,Developing Suburb,2855,5,4.0,0.0,13,1,Unfurnished,0,1,13283869
+Chennai,Developing Suburb,3294,4,3.0,11.0,2,0,Fully-Furnished,0,1,21872080
+Chennai,Developing Suburb,1445,2,1.0,38.0,15,0,Semi-Furnished,0,0,6829160
+Kolkata,Mid-tier,1453,4,4.0,3.0,21,0,Semi-Furnished,0,0,8608345
+Jaipur,Developing Suburb,3150,1,1.0,12.0,14,0,Fully-Furnished,1,1,10094957
+Bangalore,Premium Residential,2707,2,2.0,33.0,9,2,Unfurnished,1,1,28728134
+Bangalore,Mid-tier,1628,4,4.0,20.0,8,0,Fully-Furnished,1,1,16620376
+Mumbai,Prime/CBD,1894,1,1.0,,10,0,Fully-Furnished,0,1,40021702
+Hyderabad,Mid-tier,3223,3,3.0,3.0,15,0,Fully-Furnished,0,1,26317632
+Mumbai,Mid-tier,1889,3,2.0,17.0,9,1,Fully-Furnished,0,0,24624915
+Pune,Mid-tier,1435,5,4.0,4.0,16,1,Unfurnished,1,1,11937404
+Hyderabad,Developing Suburb,2350,2,2.0,18.0,18,1,Unfurnished,0,1,12748137
+Delhi NCR,Mid-tier,1249,3,3.0,1.0,1,2,Semi-Furnished,0,0,13276909
+Hyderabad,Mid-tier,753,2,2.0,11.0,23,2,Unfurnished,1,1,5320260
+Mumbai,Premium Residential,1498,3,2.0,16.0,22,0,Unfurnished,0,1,20932437
+Mumbai,Mid-tier,3320,5,5.0,9.0,1,1,Semi-Furnished,0,0,48649982
+Ahmedabad,Premium Residential,2139,4,3.0,33.0,5,2,Unfurnished,0,1,10480058
+Bangalore,Prime/CBD,1864,5,5.0,5.0,18,1,Fully-Furnished,1,1,34892859
+Mumbai,Mid-tier,1390,1,1.0,,7,2,Fully-Furnished,1,1,22866981
+Pune,Developing Suburb,1664,3,3.0,10.0,2,2,Fully-Furnished,0,0,10397243
+Kolkata,Mid-tier,3465,1,1.0,11.0,13,0,Semi-Furnished,0,1,16604927
+Delhi NCR,Mid-tier,2284,1,1.0,8.0,24,0,Fully-Furnished,1,1,25082309
+Chennai,Mid-tier,2209,2,,1.0,15,2,Fully-Furnished,0,0,16418427
+Mumbai,Developing Suburb,2741,3,3.0,7.0,0,0,Semi-Furnished,1,1,35292781
+Mumbai,Mid-tier,2656,1,1.0,10.0,20,2,Unfurnished,1,1,31354711
+Hyderabad,Mid-tier,1511,4,4.0,35.0,2,2,Fully-Furnished,0,1,9052725
+Hyderabad,Prime/CBD,1217,1,1.0,9.0,21,1,Fully-Furnished,0,1,14132337
+Chennai,Mid-tier,2199,4,4.0,20.0,17,0,Semi-Furnished,1,0,16507366
+Kolkata,Mid-tier,2360,2,2.0,19.0,8,0,Unfurnished,0,1,10036635
+Lucknow,Mid-tier,2837,1,1.0,7.0,5,0,Semi-Furnished,0,1,8803353
+Pune,Mid-tier,2772,5,4.0,35.0,22,1,Unfurnished,1,1,20491646
+Bangalore,Mid-tier,3387,2,2.0,28.0,20,1,Fully-Furnished,0,1,31083877
+Kolkata,Mid-tier,1288,4,4.0,11.0,24,1,Fully-Furnished,0,1,7231202
+Delhi NCR,Developing Suburb,2255,2,2.0,13.0,0,0,Unfurnished,0,1,18978092
+Pune,Developing Suburb,1580,1,1.0,20.0,20,0,Semi-Furnished,1,1,9672575
+Mumbai,Developing Suburb,1067,3,2.0,21.0,9,0,Unfurnished,0,1,11179688
+Mumbai,Outskirts,1032,3,3.0,20.0,5,1,Semi-Furnished,1,1,8453987
+Lucknow,Prime/CBD,3024,4,3.0,29.0,22,1,Unfurnished,1,0,13785674
+Ahmedabad,Premium Residential,2042,4,4.0,38.0,11,2,Semi-Furnished,0,0,11043301
+Chennai,Prime/CBD,536,3,3.0,19.0,3,1,Unfurnished,0,1,5054002
+Bangalore,Mid-tier,2346,4,4.0,23.0,12,2,Unfurnished,0,0,21094518
+Delhi NCR,Outskirts,2097,2,2.0,22.0,16,0,Semi-Furnished,1,1,15260474
+Delhi NCR,Premium Residential,827,5,4.0,6.0,7,1,Unfurnished,1,0,11435800
+Delhi NCR,Outskirts,1875,5,4.0,8.0,19,0,Semi-Furnished,1,0,13151340
+Hyderabad,Prime/CBD,3059,2,2.0,0.0,2,0,Unfurnished,0,1,31962586
+Kolkata,Outskirts,3358,5,4.0,25.0,11,0,Semi-Furnished,1,1,10318279
+Chennai,Mid-tier,1218,1,1.0,37.0,6,0,Fully-Furnished,0,1,7083210
+Delhi NCR,Prime/CBD,2588,2,2.0,37.0,11,1,Fully-Furnished,1,1,39333823
+Lucknow,Mid-tier,1506,4,3.0,21.0,1,0,Fully-Furnished,1,1,4113583
+Kolkata,Premium Residential,2624,2,2.0,9.0,23,2,Fully-Furnished,0,0,18851715
+Hyderabad,Premium Residential,597,3,3.0,5.0,13,1,Unfurnished,0,0,4942838
+Hyderabad,Premium Residential,3071,4,4.0,16.0,21,0,Unfurnished,1,1,23349994
+Bangalore,Developing Suburb,2395,3,3.0,37.0,22,1,Semi-Furnished,1,1,17416548
+Delhi NCR,Mid-tier,3138,4,3.0,23.0,4,2,Fully-Furnished,0,1,35038456
+Bangalore,Premium Residential,2848,5,5.0,9.0,8,0,Fully-Furnished,0,1,37900607
+Kolkata,Mid-tier,870,2,1.0,7.0,20,2,Unfurnished,1,0,5033026
+Mumbai,Developing Suburb,2665,1,1.0,20.0,10,0,Unfurnished,0,0,26291240
+Mumbai,Premium Residential,2348,4,4.0,5.0,4,2,Unfurnished,0,1,42381480
+Mumbai,Mid-tier,1328,4,3.0,20.0,2,0,Semi-Furnished,0,1,16028128
+Mumbai,Premium Residential,2410,3,3.0,38.0,16,1,Semi-Furnished,0,0,33289019
+Ahmedabad,Premium Residential,3079,5,4.0,23.0,1,0,Unfurnished,1,1,18416286
+Chennai,Developing Suburb,3398,3,2.0,32.0,23,1,Semi-Furnished,1,0,17095428
+Pune,Premium Residential,1305,3,3.0,17.0,0,0,Semi-Furnished,1,1,13355673
+Mumbai,Mid-tier,2622,5,5.0,27.0,6,0,Semi-Furnished,0,1,35458353
+Pune,Developing Suburb,422,1,1.0,,13,2,Unfurnished,1,1,2488076
+Pune,Prime/CBD,634,3,3.0,11.0,4,2,Fully-Furnished,0,1,6900821
+Delhi NCR,Mid-tier,3484,3,3.0,26.0,18,2,Semi-Furnished,0,1,34520245
+Pune,Premium Residential,1524,4,4.0,9.0,10,0,Fully-Furnished,1,1,16176183
+Bangalore,Outskirts,1328,5,4.0,,22,0,Fully-Furnished,0,0,8092364
+Hyderabad,Mid-tier,922,2,1.0,25.0,24,0,Unfurnished,1,0,5161745
+Chennai,Developing Suburb,2208,1,1.0,24.0,1,1,Unfurnished,0,0,8638285
+Mumbai,Mid-tier,830,1,1.0,10.0,7,1,Semi-Furnished,1,1,12149668
+Bangalore,Prime/CBD,1192,5,4.0,22.0,8,0,Unfurnished,0,1,14521040
+Chennai,Mid-tier,2029,4,,33.0,2,2,Fully-Furnished,0,1,12949055
+Pune,Outskirts,2136,4,4.0,39.0,1,2,Semi-Furnished,0,1,8136616
+Ahmedabad,Mid-tier,932,5,4.0,22.0,6,2,Fully-Furnished,1,0,4841588
+Chennai,Developing Suburb,3426,4,4.0,28.0,4,0,Unfurnished,1,1,15668903
+Delhi NCR,Outskirts,2146,1,1.0,30.0,20,2,Unfurnished,1,1,12391026
+Mumbai,Premium Residential,2075,1,1.0,6.0,4,0,Semi-Furnished,1,1,33982394
+Chennai,Premium Residential,1716,2,1.0,,19,1,Unfurnished,1,0,10824234
+Mumbai,Mid-tier,3257,5,,32.0,12,2,Semi-Furnished,0,1,43076213
+Hyderabad,Mid-tier,1312,3,2.0,20.0,20,1,Fully-Furnished,0,1,9969238
+Jaipur,Developing Suburb,1524,3,2.0,1.0,19,2,Semi-Furnished,1,1,5667195
+Hyderabad,Outskirts,1925,2,2.0,17.0,5,0,Semi-Furnished,1,1,8978423
+Bangalore,Mid-tier,1727,2,2.0,32.0,19,0,Unfurnished,1,1,12877317
+Chennai,Premium Residential,3318,4,3.0,36.0,17,0,Unfurnished,0,0,19246307
+Pune,Developing Suburb,2987,2,1.0,33.0,24,0,Fully-Furnished,0,0,14452647
+Hyderabad,Premium Residential,1423,2,2.0,19.0,1,2,Fully-Furnished,1,0,11335333
+Jaipur,Developing Suburb,1976,3,,34.0,24,1,Semi-Furnished,1,0,5152560
+Bangalore,Mid-tier,1778,4,3.0,17.0,5,0,Fully-Furnished,0,1,20710304
+Lucknow,Developing Suburb,1919,2,1.0,23.0,8,2,Semi-Furnished,1,1,4645902
+Jaipur,Prime/CBD,2081,2,1.0,7.0,24,1,Unfurnished,1,1,13288805
+Delhi NCR,Mid-tier,2397,4,3.0,29.0,2,0,Unfurnished,0,0,20405329
+Mumbai,Mid-tier,626,5,4.0,,0,1,Fully-Furnished,1,1,10482636
+Mumbai,Mid-tier,1659,4,4.0,22.0,0,0,Unfurnished,1,0,18771574
+Mumbai,Premium Residential,1272,3,2.0,10.0,18,1,Semi-Furnished,1,0,23147656
+Mumbai,Developing Suburb,1291,5,5.0,1.0,4,1,Semi-Furnished,1,1,15839587
+Chennai,Developing Suburb,1878,1,1.0,25.0,12,0,Semi-Furnished,1,1,10520228
+Mumbai,Premium Residential,1436,4,4.0,35.0,18,2,Semi-Furnished,0,1,23700656
+Bangalore,Prime/CBD,2657,3,2.0,32.0,11,1,Unfurnished,0,0,28964795
+Ahmedabad,Prime/CBD,3188,5,5.0,12.0,15,0,Unfurnished,0,1,21489541
+Mumbai,Mid-tier,796,4,4.0,39.0,24,1,Semi-Furnished,0,0,9500430
+Ahmedabad,Mid-tier,1523,2,2.0,24.0,24,1,Semi-Furnished,0,0,6734278
+Delhi NCR,Mid-tier,2478,4,4.0,3.0,18,2,Semi-Furnished,0,1,31908468
+Mumbai,Premium Residential,3345,1,1.0,18.0,2,1,Semi-Furnished,0,0,54318470
+Chennai,Mid-tier,1048,4,3.0,17.0,11,1,Unfurnished,0,0,6483204
+Chennai,Mid-tier,728,5,5.0,36.0,4,0,Fully-Furnished,1,1,4730587
+Ahmedabad,Mid-tier,1882,5,5.0,29.0,1,0,Semi-Furnished,0,1,8712488
+Kolkata,Outskirts,1351,4,3.0,18.0,21,2,Unfurnished,1,1,4523025
+Ahmedabad,Premium Residential,2405,5,4.0,22.0,6,1,Semi-Furnished,1,1,14609221
+Delhi NCR,Developing Suburb,2416,2,1.0,15.0,12,1,Fully-Furnished,0,0,22058701
+Delhi NCR,Mid-tier,3068,4,4.0,0.0,24,1,Fully-Furnished,1,0,43238790
+Kolkata,Mid-tier,2278,2,1.0,11.0,14,2,Unfurnished,1,0,11872101
+Ahmedabad,Developing Suburb,1596,2,2.0,23.0,21,1,Semi-Furnished,0,1,5567932
+Lucknow,Developing Suburb,2172,3,3.0,33.0,2,0,Unfurnished,0,1,5580488
+Bangalore,Outskirts,561,4,3.0,7.0,20,2,Unfurnished,0,1,3924739
+Bangalore,Premium Residential,2151,5,5.0,,19,0,Semi-Furnished,0,1,23538035
+Kolkata,Prime/CBD,1175,2,1.0,4.0,4,0,Semi-Furnished,0,0,8239653
+Bangalore,Developing Suburb,2227,3,3.0,25.0,23,2,Semi-Furnished,1,1,16422364
+Jaipur,Mid-tier,2721,4,3.0,29.0,7,0,Unfurnished,1,0,9832367
+Ahmedabad,Premium Residential,3474,4,4.0,12.0,21,1,Unfurnished,1,1,24035317
+Bangalore,Prime/CBD,1451,1,1.0,18.0,0,2,Semi-Furnished,0,1,18078476
+Kolkata,Prime/CBD,2773,1,1.0,28.0,7,0,Unfurnished,0,1,17339754
+Kolkata,Outskirts,1339,2,1.0,2.0,23,1,Unfurnished,0,1,4276706
+Mumbai,Premium Residential,939,1,1.0,25.0,17,1,Unfurnished,0,1,15193208
+Jaipur,Mid-tier,2935,2,1.0,39.0,19,0,Semi-Furnished,0,0,9791360
+Pune,Premium Residential,1221,5,5.0,11.0,15,1,Unfurnished,1,0,10464580
+Ahmedabad,Mid-tier,1861,2,1.0,1.0,17,2,Semi-Furnished,0,1,8057420
+Bangalore,Prime/CBD,1488,1,1.0,10.0,19,0,Unfurnished,1,0,20777184
+Jaipur,Mid-tier,755,5,5.0,27.0,11,1,Unfurnished,0,1,2549235
+Bangalore,Prime/CBD,634,1,1.0,17.0,12,1,Semi-Furnished,1,1,9318621
+Mumbai,Developing Suburb,2674,2,1.0,12.0,12,0,Unfurnished,1,1,29729936
+Jaipur,Premium Residential,1948,3,3.0,36.0,9,0,Semi-Furnished,1,1,7171704
+Mumbai,Mid-tier,2496,4,3.0,21.0,6,0,Unfurnished,0,0,27560259
+Bangalore,Outskirts,517,1,1.0,11.0,24,0,Semi-Furnished,1,1,3155955
+Lucknow,Developing Suburb,2501,2,1.0,1.0,13,2,Unfurnished,1,1,7098681
+Lucknow,Mid-tier,2073,5,4.0,36.0,23,0,Unfurnished,1,1,6319902
+Hyderabad,Mid-tier,3012,1,1.0,,15,2,Semi-Furnished,1,0,22361784
+Chennai,Mid-tier,1467,1,1.0,25.0,14,2,Fully-Furnished,1,1,11871616
+Pune,Developing Suburb,2500,4,4.0,25.0,11,0,Unfurnished,0,0,13218640
+Delhi NCR,Outskirts,957,2,1.0,23.0,8,2,Semi-Furnished,1,1,7084770
+Bangalore,Developing Suburb,2215,3,3.0,11.0,7,0,Semi-Furnished,1,0,16798370
+Chennai,Mid-tier,2405,5,5.0,15.0,17,0,Semi-Furnished,0,1,18623876
+Kolkata,Developing Suburb,3315,2,2.0,,22,1,Fully-Furnished,0,1,14167900
+Kolkata,Mid-tier,797,5,5.0,39.0,17,0,Unfurnished,0,0,3043997
+Kolkata,Prime/CBD,1074,1,1.0,8.0,12,1,Fully-Furnished,1,0,8310435
+Mumbai,Mid-tier,786,4,3.0,31.0,17,2,Unfurnished,0,1,7419007
+Pune,Outskirts,2558,4,3.0,14.0,14,1,Unfurnished,0,0,11897720
+Mumbai,Premium Residential,3061,3,3.0,36.0,3,2,Fully-Furnished,0,1,42904770
+Hyderabad,Developing Suburb,2464,4,3.0,12.0,16,0,Semi-Furnished,1,1,16668095
+Pune,Premium Residential,1283,1,1.0,4.0,4,2,Semi-Furnished,0,1,11866798
+Jaipur,Mid-tier,940,3,2.0,10.0,21,2,Semi-Furnished,1,1,3637025
+Bangalore,Prime/CBD,570,2,2.0,9.0,15,0,Semi-Furnished,0,0,6962047
+Mumbai,Mid-tier,2856,4,4.0,12.0,8,2,Unfurnished,1,0,39418349
+Mumbai,Developing Suburb,1139,3,2.0,14.0,9,0,Semi-Furnished,1,0,10840787
+Kolkata,Mid-tier,1801,1,1.0,6.0,23,1,Unfurnished,0,1,9631184
+Hyderabad,Developing Suburb,3305,5,5.0,,17,0,Fully-Furnished,0,1,15226801
+Mumbai,Developing Suburb,2677,5,4.0,27.0,16,0,Fully-Furnished,1,1,30295782
+Mumbai,Outskirts,518,1,1.0,31.0,17,2,Unfurnished,0,0,3631507
+Chennai,Premium Residential,3231,1,1.0,34.0,6,1,Semi-Furnished,0,1,23533689
+Mumbai,Mid-tier,2912,5,4.0,14.0,3,0,Unfurnished,1,1,42463031
+Ahmedabad,Premium Residential,2551,3,3.0,35.0,4,1,Unfurnished,1,1,11221922
+Chennai,Outskirts,3145,5,,20.0,22,1,Fully-Furnished,1,1,15427613
+Mumbai,Outskirts,2395,1,1.0,5.0,15,2,Unfurnished,0,1,22208866
+Mumbai,Mid-tier,2105,4,4.0,0.0,2,0,Semi-Furnished,0,0,29492126
+Lucknow,Developing Suburb,2122,2,2.0,3.0,17,2,Fully-Furnished,0,1,7093081
+Bangalore,Mid-tier,2622,4,4.0,10.0,22,0,Fully-Furnished,1,1,30012332
+Bangalore,Mid-tier,3192,4,4.0,25.0,20,1,Semi-Furnished,1,1,33908653
+Ahmedabad,Prime/CBD,2097,1,1.0,36.0,13,0,Semi-Furnished,1,1,11973262
+Jaipur,Developing Suburb,1844,5,4.0,22.0,14,0,Semi-Furnished,0,0,5004012
+Lucknow,Premium Residential,2159,3,2.0,28.0,16,1,Fully-Furnished,1,1,8712076
+Kolkata,Developing Suburb,1924,4,3.0,20.0,0,1,Semi-Furnished,0,1,8176572
+Bangalore,Developing Suburb,1064,5,4.0,26.0,24,0,Semi-Furnished,0,0,6726503
+Mumbai,Developing Suburb,432,3,3.0,38.0,20,2,Unfurnished,1,1,3969058
+Kolkata,Prime/CBD,2502,4,3.0,39.0,16,0,Unfurnished,0,1,15375440
+Hyderabad,Premium Residential,2966,3,2.0,12.0,22,1,Semi-Furnished,1,1,25497398
+Bangalore,Premium Residential,3203,5,5.0,22.0,24,2,Fully-Furnished,1,1,44312768
+Jaipur,Mid-tier,2459,2,2.0,15.0,10,1,Fully-Furnished,1,1,11370650
+Mumbai,Prime/CBD,1951,5,5.0,29.0,16,1,Fully-Furnished,1,0,41593599
+Pune,Outskirts,1119,1,1.0,,13,2,Semi-Furnished,1,1,5105522
+Mumbai,Mid-tier,3002,3,3.0,39.0,19,1,Semi-Furnished,1,1,37054190
+Pune,Premium Residential,2820,2,1.0,15.0,18,1,Fully-Furnished,0,1,27552970
+Mumbai,Mid-tier,883,3,3.0,30.0,20,1,Semi-Furnished,0,1,10720941
+Mumbai,Mid-tier,1372,3,2.0,24.0,6,1,Unfurnished,1,1,17674119
+Mumbai,Mid-tier,3070,4,3.0,11.0,23,1,Semi-Furnished,1,0,46280715
+Chennai,Mid-tier,706,1,1.0,25.0,12,1,Fully-Furnished,1,0,4687382
+Kolkata,Outskirts,856,3,2.0,36.0,17,1,Unfurnished,0,1,2146654
+Hyderabad,Mid-tier,2607,5,4.0,32.0,22,1,Fully-Furnished,0,1,17979535
+Lucknow,Outskirts,730,5,5.0,27.0,13,1,Unfurnished,0,1,1642242
+Bangalore,Developing Suburb,3223,4,3.0,8.0,0,0,Semi-Furnished,1,1,26327882
+Delhi NCR,Premium Residential,624,1,1.0,11.0,6,0,Semi-Furnished,1,1,8866951
+Ahmedabad,Outskirts,3430,1,1.0,4.0,7,1,Semi-Furnished,1,1,11180977
+Delhi NCR,Prime/CBD,3176,5,5.0,27.0,17,0,Semi-Furnished,0,1,43390478
+Lucknow,Developing Suburb,1879,2,2.0,34.0,8,2,Fully-Furnished,0,1,4792124
+Mumbai,Mid-tier,1482,4,4.0,4.0,0,0,Semi-Furnished,1,1,22590705
+Lucknow,Outskirts,1043,4,3.0,33.0,21,1,Unfurnished,1,1,2143194
+Mumbai,Developing Suburb,1015,5,5.0,33.0,16,1,Semi-Furnished,0,0,12028699
+Jaipur,Developing Suburb,594,5,4.0,12.0,18,0,Unfurnished,1,1,1999147
+Pune,Developing Suburb,888,2,2.0,38.0,5,1,Unfurnished,0,0,3583481
+Lucknow,Premium Residential,2604,2,1.0,13.0,2,2,Unfurnished,1,0,8922682
+Mumbai,Prime/CBD,3057,1,1.0,10.0,23,2,Fully-Furnished,1,0,65539455
+Hyderabad,Mid-tier,1649,4,4.0,37.0,4,1,Semi-Furnished,1,0,8960716
+Lucknow,Premium Residential,2859,4,3.0,,1,2,Semi-Furnished,1,1,14516995
+Pune,Developing Suburb,1502,5,5.0,32.0,19,2,Unfurnished,0,0,8076433
+Chennai,Mid-tier,1547,1,1.0,6.0,24,0,Unfurnished,1,0,10110892
+Chennai,Outskirts,2918,4,4.0,7.0,3,2,Fully-Furnished,1,1,16281908
+Pune,Mid-tier,1641,1,1.0,36.0,9,0,Semi-Furnished,1,1,10400597
+Chennai,Developing Suburb,915,1,1.0,9.0,9,1,Fully-Furnished,1,0,6376568
+Hyderabad,Premium Residential,2025,5,4.0,14.0,23,0,Unfurnished,0,1,17543100
+Jaipur,Developing Suburb,1527,1,1.0,37.0,20,1,Unfurnished,1,1,4326528
+Mumbai,Outskirts,792,2,2.0,14.0,10,1,Fully-Furnished,1,1,6796463
+Delhi NCR,Mid-tier,1030,2,1.0,4.0,15,1,Semi-Furnished,0,1,10416966
+Lucknow,Mid-tier,2247,3,3.0,28.0,16,1,Unfurnished,1,0,6952263
+Jaipur,Developing Suburb,3055,5,,,15,1,Unfurnished,0,1,8296517
+Pune,Premium Residential,1379,3,2.0,9.0,6,0,Fully-Furnished,0,1,12974630
+Chennai,Mid-tier,833,2,1.0,11.0,15,1,Semi-Furnished,0,0,6084305
+Delhi NCR,Mid-tier,2987,3,2.0,3.0,2,2,Semi-Furnished,1,1,33906803
+Delhi NCR,Premium Residential,677,5,4.0,30.0,15,2,Unfurnished,1,1,7426805
+Pune,Mid-tier,632,5,4.0,17.0,7,1,Unfurnished,1,1,4918721
+Bangalore,Prime/CBD,1952,1,1.0,15.0,11,2,Fully-Furnished,1,1,34583757
+Hyderabad,Prime/CBD,1994,4,3.0,39.0,2,0,Unfurnished,0,1,14506151
+Mumbai,Premium Residential,1513,1,1.0,35.0,16,0,Semi-Furnished,0,1,23147298
+Lucknow,Outskirts,2809,5,4.0,24.0,20,1,Fully-Furnished,0,1,6038010
+Lucknow,Mid-tier,425,2,1.0,22.0,17,1,Unfurnished,1,1,1336984
+Chennai,Outskirts,3496,2,1.0,11.0,10,1,Semi-Furnished,1,1,16006711
+Hyderabad,Mid-tier,1817,1,1.0,33.0,3,2,Semi-Furnished,0,1,9918645
+Bangalore,Premium Residential,2954,5,5.0,35.0,15,2,Semi-Furnished,1,1,35617694
+Ahmedabad,Mid-tier,2714,2,1.0,36.0,16,0,Semi-Furnished,1,1,9944697
+Chennai,Mid-tier,860,5,5.0,2.0,8,2,Unfurnished,0,1,6380948
+Delhi NCR,Prime/CBD,2903,2,1.0,8.0,5,0,Semi-Furnished,1,1,50874604
+Jaipur,Mid-tier,1491,5,4.0,17.0,23,2,Semi-Furnished,1,1,6975672
+Ahmedabad,Premium Residential,1406,3,3.0,34.0,19,0,Semi-Furnished,1,0,7495566
+Jaipur,Mid-tier,3310,5,5.0,33.0,24,1,Unfurnished,0,1,12873300
+Kolkata,Developing Suburb,2394,5,5.0,13.0,1,2,Semi-Furnished,1,0,10788947
+Hyderabad,Premium Residential,890,1,1.0,3.0,8,0,Fully-Furnished,1,0,7257552
+Bangalore,Prime/CBD,1472,3,2.0,28.0,20,2,Semi-Furnished,0,0,18576627
+Jaipur,Developing Suburb,3011,4,4.0,14.0,5,1,Semi-Furnished,1,1,10305802
+Ahmedabad,Mid-tier,615,1,1.0,27.0,2,0,Semi-Furnished,0,1,2086282
+Mumbai,Prime/CBD,2123,4,3.0,15.0,19,2,Fully-Furnished,1,1,45533401
+Mumbai,Outskirts,1992,2,2.0,11.0,5,2,Fully-Furnished,1,1,17867508
+Bangalore,Prime/CBD,3006,4,4.0,4.0,6,1,Unfurnished,1,1,41342148
+Ahmedabad,Developing Suburb,558,5,5.0,33.0,0,1,Semi-Furnished,0,1,1898101
+Lucknow,Outskirts,2936,4,4.0,0.0,22,0,Unfurnished,0,1,6548446
+Delhi NCR,Premium Residential,1085,1,1.0,38.0,0,2,Semi-Furnished,0,1,10719280
+Hyderabad,Premium Residential,3241,1,1.0,31.0,4,2,Unfurnished,0,1,19796031
+Bangalore,Premium Residential,2176,4,4.0,25.0,5,1,Fully-Furnished,0,1,26502823
+Lucknow,Premium Residential,2452,1,1.0,16.0,12,1,Unfurnished,1,1,9768827
+Ahmedabad,Prime/CBD,2243,1,1.0,26.0,1,0,Semi-Furnished,0,1,13555236
+Ahmedabad,Developing Suburb,2808,4,4.0,23.0,14,2,Semi-Furnished,1,1,12879314
+Pune,Prime/CBD,2906,3,3.0,34.0,14,2,Unfurnished,0,0,25336966
+Bangalore,Mid-tier,2695,3,3.0,38.0,12,0,Fully-Furnished,1,0,22561049
+Delhi NCR,Outskirts,1989,2,2.0,25.0,24,0,Fully-Furnished,1,1,13739874
+Mumbai,Developing Suburb,2096,1,1.0,37.0,13,1,Semi-Furnished,1,0,19718392
+Ahmedabad,Mid-tier,3393,4,4.0,22.0,21,1,Semi-Furnished,1,1,17515029
+Ahmedabad,Premium Residential,2869,1,1.0,21.0,6,0,Unfurnished,0,0,13508013
+Lucknow,Mid-tier,2346,5,,,13,0,Semi-Furnished,0,1,7528388
+Lucknow,Mid-tier,2462,1,1.0,8.0,23,2,Unfurnished,0,0,7599617
+Hyderabad,Mid-tier,3183,1,1.0,3.0,9,0,Semi-Furnished,0,1,22233892
+Kolkata,Premium Residential,1545,3,2.0,6.0,16,0,Fully-Furnished,1,1,13106106
+Jaipur,Outskirts,2724,4,3.0,22.0,13,2,Unfurnished,0,0,5716833
+Ahmedabad,Mid-tier,1981,1,1.0,1.0,7,0,Fully-Furnished,1,1,9482235
+Delhi NCR,Premium Residential,2900,3,3.0,23.0,3,1,Unfurnished,0,0,31748897
+Pune,Mid-tier,3045,2,1.0,39.0,15,1,Fully-Furnished,1,1,22526736
+Mumbai,Mid-tier,2893,3,3.0,30.0,23,2,Unfurnished,1,1,35094795
+Lucknow,Developing Suburb,2657,3,2.0,30.0,12,0,Semi-Furnished,0,0,7587302
+Hyderabad,Developing Suburb,3161,3,3.0,39.0,21,1,Unfurnished,0,1,16591049
+Delhi NCR,Developing Suburb,2749,1,1.0,33.0,24,1,Fully-Furnished,1,1,22976358
+Chennai,Prime/CBD,2332,1,1.0,23.0,19,1,Semi-Furnished,1,1,22827250
+Hyderabad,Mid-tier,2157,2,1.0,25.0,17,1,Unfurnished,0,1,14170311
+Bangalore,Mid-tier,2450,5,5.0,15.0,13,0,Semi-Furnished,0,0,22804975
+Mumbai,Prime/CBD,1389,5,4.0,12.0,17,0,Semi-Furnished,1,1,28676627
+Chennai,Premium Residential,1941,5,5.0,14.0,4,0,Semi-Furnished,1,0,18018701
+Pune,Developing Suburb,1516,2,2.0,26.0,8,0,Fully-Furnished,0,0,8756809
+Kolkata,Premium Residential,2967,5,5.0,3.0,2,1,Semi-Furnished,1,0,20073558
+Pune,Mid-tier,892,5,5.0,15.0,7,2,Unfurnished,1,0,6661938
+Ahmedabad,Premium Residential,1019,3,3.0,29.0,19,2,Unfurnished,1,1,5360562
+Hyderabad,Prime/CBD,2778,1,1.0,29.0,21,1,Semi-Furnished,1,1,24955477
+Hyderabad,Premium Residential,2780,1,1.0,35.0,9,1,Semi-Furnished,1,1,19146304
+Ahmedabad,Outskirts,2497,3,2.0,2.0,21,2,Unfurnished,0,0,7653019
+Bangalore,Developing Suburb,1946,3,2.0,21.0,18,2,Unfurnished,1,1,14298016
+Mumbai,Outskirts,1262,3,2.0,21.0,20,1,Semi-Furnished,0,1,10963671
+Mumbai,Mid-tier,2091,1,1.0,11.0,2,1,Fully-Furnished,1,0,32266255
+Kolkata,Prime/CBD,2005,5,5.0,20.0,10,0,Unfurnished,0,1,14477934
+Chennai,Mid-tier,2719,3,3.0,3.0,10,0,Semi-Furnished,1,1,21198114
+Chennai,Mid-tier,979,2,2.0,30.0,16,2,Semi-Furnished,0,1,5800665
+Delhi NCR,Developing Suburb,2290,3,2.0,30.0,15,1,Semi-Furnished,1,1,20581033
+Mumbai,Prime/CBD,1675,4,4.0,22.0,6,2,Unfurnished,0,1,28517154
+Mumbai,Mid-tier,3007,3,2.0,19.0,3,0,Semi-Furnished,1,1,35755317
+Bangalore,Premium Residential,3143,1,1.0,,22,0,Fully-Furnished,1,0,35186091
+Hyderabad,Mid-tier,2255,3,2.0,22.0,18,2,Unfurnished,1,1,16068299
+Bangalore,Developing Suburb,2893,4,4.0,27.0,11,0,Semi-Furnished,1,0,21761650
+Pune,Mid-tier,3464,2,1.0,15.0,14,1,Unfurnished,0,1,26014913
+Jaipur,Mid-tier,1755,5,5.0,36.0,10,2,Unfurnished,1,1,5527193
+Bangalore,Mid-tier,1562,3,2.0,20.0,4,1,Semi-Furnished,1,1,17670815
+Pune,Mid-tier,756,4,4.0,14.0,4,1,Semi-Furnished,1,1,5819484
+Kolkata,Developing Suburb,2024,4,3.0,16.0,14,0,Unfurnished,1,1,7382374
+Bangalore,Outskirts,2721,2,1.0,36.0,17,1,Semi-Furnished,1,1,17294918
+Chennai,Outskirts,3490,1,1.0,12.0,10,2,Semi-Furnished,0,1,13535985
+Ahmedabad,Developing Suburb,2406,3,2.0,18.0,11,1,Semi-Furnished,1,1,9312984
+Jaipur,Premium Residential,2758,4,4.0,29.0,1,1,Semi-Furnished,1,1,12610449
+Mumbai,Developing Suburb,1269,2,2.0,17.0,19,1,Unfurnished,1,0,13620318
+Jaipur,Mid-tier,1285,5,5.0,13.0,14,1,Fully-Furnished,1,1,5683517
+Pune,Premium Residential,2401,4,3.0,35.0,19,1,Semi-Furnished,0,1,21110619
+Delhi NCR,Developing Suburb,2601,2,1.0,35.0,3,0,Semi-Furnished,0,0,18967548
+Pune,Prime/CBD,1813,1,1.0,19.0,21,2,Fully-Furnished,0,1,20193784
+Lucknow,Outskirts,1683,1,1.0,18.0,17,0,Unfurnished,0,1,3553055
+Pune,Mid-tier,1019,4,3.0,6.0,5,2,Unfurnished,1,1,7979188
+Bangalore,Mid-tier,1282,4,3.0,3.0,22,2,Semi-Furnished,1,1,14183075
+Chennai,Developing Suburb,1196,3,2.0,33.0,18,2,Semi-Furnished,0,1,7032828
+Delhi NCR,Outskirts,2572,2,2.0,1.0,10,2,Fully-Furnished,0,1,20615202
+Mumbai,Mid-tier,1696,4,4.0,4.0,23,2,Fully-Furnished,1,1,27308956
+Mumbai,Mid-tier,1018,3,3.0,9.0,1,1,Unfurnished,1,0,12575631
+Mumbai,Prime/CBD,2234,3,3.0,31.0,7,0,Semi-Furnished,1,0,39480364
+Delhi NCR,Mid-tier,644,4,4.0,12.0,10,0,Semi-Furnished,1,1,5897558
+Mumbai,Premium Residential,3295,1,1.0,38.0,4,1,Unfurnished,1,1,41680834
+Chennai,Developing Suburb,2897,2,2.0,4.0,17,2,Semi-Furnished,0,0,16689803
+Delhi NCR,Mid-tier,1329,2,1.0,9.0,22,0,Semi-Furnished,0,1,14116288
+Bangalore,Developing Suburb,1670,1,1.0,9.0,17,1,Semi-Furnished,0,0,11305812
+Jaipur,Prime/CBD,919,4,4.0,37.0,13,1,Unfurnished,0,1,4166192
+Pune,Prime/CBD,2809,2,1.0,26.0,21,0,Unfurnished,1,0,28325860
+Chennai,Developing Suburb,407,4,4.0,20.0,9,0,Unfurnished,1,0,2249473
+Delhi NCR,Prime/CBD,2925,4,3.0,7.0,2,2,Fully-Furnished,0,0,50238032
+Delhi NCR,Prime/CBD,2419,3,3.0,0.0,8,2,Unfurnished,0,1,38304412
+Mumbai,Prime/CBD,894,1,1.0,27.0,2,0,Fully-Furnished,0,1,16273968
+Delhi NCR,Outskirts,2029,4,3.0,38.0,10,2,Semi-Furnished,1,0,12282398
+Delhi NCR,Developing Suburb,3280,5,5.0,13.0,11,1,Semi-Furnished,1,1,31559096
+Delhi NCR,Mid-tier,1462,1,1.0,20.0,11,2,Semi-Furnished,0,0,14346235
+Mumbai,Premium Residential,3040,2,2.0,29.0,2,2,Semi-Furnished,0,1,47426580
+Mumbai,Mid-tier,586,3,3.0,,20,1,Semi-Furnished,1,1,7468098
+Pune,Developing Suburb,3201,2,2.0,8.0,6,2,Semi-Furnished,1,1,20460894
+Delhi NCR,Developing Suburb,2277,2,,16.0,13,1,Semi-Furnished,0,1,19503348
+Bangalore,Premium Residential,2540,1,1.0,4.0,23,2,Semi-Furnished,1,0,29345758
+Pune,Premium Residential,485,2,2.0,30.0,10,0,Semi-Furnished,1,1,3795218
+Chennai,Prime/CBD,536,4,3.0,39.0,6,2,Unfurnished,0,1,4244506
+Mumbai,Developing Suburb,2868,2,2.0,37.0,24,0,Semi-Furnished,0,1,26721331
+Kolkata,Developing Suburb,2521,3,2.0,18.0,20,0,Fully-Furnished,0,0,11194096
+Chennai,Premium Residential,2036,3,2.0,35.0,9,0,Unfurnished,1,1,13366890
+Mumbai,Prime/CBD,2618,5,5.0,32.0,10,0,Unfurnished,1,1,50127396
+Ahmedabad,Prime/CBD,2151,3,3.0,12.0,14,0,Unfurnished,1,1,14501592
+Jaipur,Outskirts,2617,2,2.0,13.0,18,1,Semi-Furnished,1,0,6753542
+Mumbai,Premium Residential,2187,3,3.0,32.0,15,1,Unfurnished,1,1,31310408
+Delhi NCR,Developing Suburb,1271,1,1.0,28.0,21,1,Semi-Furnished,1,0,10060034
+Ahmedabad,Mid-tier,2769,3,2.0,35.0,20,0,Unfurnished,1,1,12675206
+Kolkata,Mid-tier,2903,4,3.0,9.0,19,2,Unfurnished,0,0,14522534
+Delhi NCR,Premium Residential,1343,1,1.0,30.0,11,1,Semi-Furnished,1,1,15119238
+Delhi NCR,Premium Residential,2026,5,5.0,5.0,17,2,Unfurnished,1,1,27254856
+Bangalore,Mid-tier,3237,4,4.0,0.0,22,2,Fully-Furnished,1,0,38353234
+Pune,Developing Suburb,3060,2,1.0,6.0,12,0,Unfurnished,0,0,16929664
+Hyderabad,Mid-tier,3336,2,2.0,26.0,4,0,Semi-Furnished,1,0,20562302
+Bangalore,Mid-tier,748,2,2.0,20.0,3,0,Unfurnished,1,1,6674305
+Pune,Prime/CBD,2076,4,3.0,27.0,13,1,Unfurnished,0,1,20164162
+Kolkata,Outskirts,1596,4,3.0,15.0,7,0,Fully-Furnished,1,1,6026869
+Mumbai,Developing Suburb,409,4,3.0,22.0,8,1,Fully-Furnished,0,0,5310326
+Delhi NCR,Premium Residential,3187,1,1.0,19.0,24,1,Unfurnished,1,1,40740256
+Kolkata,Outskirts,1861,1,1.0,37.0,18,1,Semi-Furnished,1,1,4969461
+Jaipur,Mid-tier,1066,2,1.0,24.0,2,1,Semi-Furnished,1,1,3531548
+Pune,Mid-tier,2993,3,2.0,27.0,4,0,Unfurnished,0,1,17516509
+Hyderabad,Developing Suburb,1922,2,2.0,4.0,20,1,Unfurnished,0,1,10869509
+Mumbai,Developing Suburb,2576,5,5.0,20.0,17,0,Fully-Furnished,1,1,30553083
+Pune,Developing Suburb,1000,1,1.0,17.0,0,0,Fully-Furnished,0,1,5668186
+Hyderabad,Premium Residential,3052,4,3.0,5.0,7,1,Fully-Furnished,1,0,30176818
+Delhi NCR,Mid-tier,726,1,1.0,28.0,18,0,Semi-Furnished,0,0,6263665
+Delhi NCR,Outskirts,1379,4,3.0,18.0,16,2,Semi-Furnished,1,1,8305168
+Bangalore,Premium Residential,2851,5,4.0,32.0,16,0,Unfurnished,1,1,32430621
+Mumbai,Mid-tier,1028,5,4.0,0.0,10,0,Unfurnished,0,0,15196750
+Bangalore,Mid-tier,2029,1,1.0,2.0,1,1,Unfurnished,1,0,16762301
+Delhi NCR,Mid-tier,3165,4,3.0,20.0,5,1,Semi-Furnished,1,1,34420291
+Bangalore,Mid-tier,3488,5,5.0,34.0,21,0,Semi-Furnished,1,1,28781445
+Mumbai,Outskirts,673,2,2.0,39.0,13,1,Fully-Furnished,0,0,4779634
+Jaipur,Premium Residential,1084,2,2.0,2.0,2,2,Fully-Furnished,1,1,6576925
+Hyderabad,Premium Residential,515,4,3.0,24.0,11,2,Fully-Furnished,0,1,4827800
+Chennai,Premium Residential,1260,1,1.0,37.0,3,1,Fully-Furnished,0,1,9833729
+Kolkata,Outskirts,2403,5,4.0,19.0,11,0,Unfurnished,0,0,7367762
+Pune,Mid-tier,1092,1,1.0,33.0,12,2,Semi-Furnished,1,1,8030374
+Mumbai,Premium Residential,1505,2,,20.0,1,2,Semi-Furnished,0,1,22839964
+Hyderabad,Developing Suburb,2771,5,4.0,22.0,1,0,Unfurnished,1,0,13676785
+Hyderabad,Developing Suburb,3408,1,1.0,5.0,14,1,Fully-Furnished,0,1,16752495
+Kolkata,Developing Suburb,2561,3,2.0,12.0,22,2,Fully-Furnished,0,1,12400416
+Pune,Outskirts,2192,4,3.0,22.0,16,0,Unfurnished,0,0,9350174
+Mumbai,Premium Residential,553,4,4.0,8.0,6,0,Unfurnished,0,1,9281947
+Delhi NCR,Developing Suburb,2300,3,3.0,16.0,13,2,Semi-Furnished,1,0,19254773
+Bangalore,Mid-tier,1827,2,2.0,1.0,11,1,Semi-Furnished,0,0,19070099
+Chennai,Developing Suburb,1689,5,5.0,18.0,16,2,Fully-Furnished,0,1,10543731
+Hyderabad,Developing Suburb,714,4,3.0,18.0,13,0,Unfurnished,0,0,3773340
+Bangalore,Developing Suburb,1464,3,3.0,6.0,5,2,Unfurnished,0,1,11766080
+Lucknow,Developing Suburb,504,3,2.0,19.0,18,1,Unfurnished,0,1,1448013
+Hyderabad,Premium Residential,2324,2,2.0,8.0,23,0,Unfurnished,1,0,19494674
+Delhi NCR,Mid-tier,2313,2,2.0,16.0,5,1,Unfurnished,1,0,23311511
+Mumbai,Outskirts,1616,1,1.0,26.0,17,2,Fully-Furnished,1,1,14431567
+Delhi NCR,Outskirts,1824,4,3.0,1.0,23,2,Unfurnished,1,1,13266063
+Delhi NCR,Prime/CBD,2801,1,1.0,35.0,4,1,Semi-Furnished,1,0,37229695
+Delhi NCR,Premium Residential,3463,3,3.0,18.0,23,2,Unfurnished,1,0,47979259
+Delhi NCR,Premium Residential,2172,5,4.0,16.0,23,1,Unfurnished,0,1,26254107
+Delhi NCR,Developing Suburb,2360,5,5.0,4.0,5,2,Fully-Furnished,0,0,23132627
+Delhi NCR,Developing Suburb,3180,2,2.0,38.0,1,1,Semi-Furnished,0,1,22541795
+Jaipur,Premium Residential,2003,5,5.0,17.0,7,1,Semi-Furnished,0,1,10458198
+Mumbai,Mid-tier,1108,5,4.0,6.0,14,0,Semi-Furnished,0,1,17013107
+Pune,Developing Suburb,1050,5,5.0,16.0,14,0,Unfurnished,1,0,6562656
+Bangalore,Developing Suburb,3271,3,3.0,38.0,10,1,Semi-Furnished,0,0,23967197
+Lucknow,Mid-tier,1346,5,5.0,35.0,21,2,Unfurnished,1,1,3992460
+Mumbai,Mid-tier,1060,5,4.0,39.0,21,2,Fully-Furnished,0,0,14194073
+Bangalore,Mid-tier,2546,5,5.0,3.0,23,2,Unfurnished,0,0,25806009
+Lucknow,Premium Residential,3035,1,1.0,37.0,0,1,Semi-Furnished,1,1,10853192
+Ahmedabad,Mid-tier,2729,3,3.0,24.0,17,1,Unfurnished,1,0,12164077
+Ahmedabad,Developing Suburb,2850,2,1.0,4.0,11,1,Semi-Furnished,0,1,11392333
+Delhi NCR,Outskirts,1532,1,1.0,,11,1,Fully-Furnished,1,1,10384378
+Delhi NCR,Mid-tier,1099,4,4.0,11.0,24,0,Semi-Furnished,1,1,11457292
+Chennai,Developing Suburb,2646,3,2.0,3.0,10,1,Semi-Furnished,0,1,15307816
+Jaipur,Premium Residential,2438,3,2.0,23.0,7,2,Fully-Furnished,0,1,13176595
+Hyderabad,Mid-tier,2774,4,4.0,28.0,6,0,Semi-Furnished,1,0,18923077
+Hyderabad,Prime/CBD,2601,4,3.0,8.0,22,2,Unfurnished,1,1,28586964
+Delhi NCR,Premium Residential,951,4,4.0,3.0,20,1,Unfurnished,0,1,12365319
+Kolkata,Developing Suburb,804,2,2.0,23.0,1,0,Semi-Furnished,1,1,3501398
+Delhi NCR,Outskirts,861,5,5.0,13.0,10,1,Semi-Furnished,0,0,6421877
+Bangalore,Prime/CBD,2579,3,2.0,4.0,21,0,Unfurnished,1,1,36243444
+Bangalore,Mid-tier,3238,5,5.0,17.0,9,2,Unfurnished,0,1,26344259
+Pune,Developing Suburb,1273,5,4.0,18.0,2,1,Fully-Furnished,1,1,9038583
+Delhi NCR,Premium Residential,483,4,4.0,11.0,19,1,Unfurnished,1,1,6973284
+Mumbai,Mid-tier,1822,2,1.0,17.0,9,0,Semi-Furnished,0,1,24865102
+Hyderabad,Developing Suburb,3201,1,1.0,16.0,17,0,Unfurnished,0,1,17917595
+Delhi NCR,Mid-tier,3075,2,2.0,29.0,13,1,Fully-Furnished,1,1,36778720
+Hyderabad,Premium Residential,620,5,4.0,23.0,17,0,Unfurnished,1,0,4699774
+Delhi NCR,Mid-tier,3000,2,2.0,10.0,23,1,Semi-Furnished,0,0,31865734
+Pune,Developing Suburb,1791,4,4.0,34.0,7,0,Unfurnished,0,1,8483817
+Hyderabad,Mid-tier,511,1,1.0,22.0,9,2,Semi-Furnished,1,1,3132827
+Mumbai,Prime/CBD,1014,4,4.0,16.0,21,0,Fully-Furnished,1,1,21335440
+Bangalore,Developing Suburb,1981,1,1.0,0.0,12,2,Unfurnished,0,0,15690856
+Mumbai,Prime/CBD,3371,5,4.0,14.0,20,0,Semi-Furnished,1,0,72622994
+Mumbai,Developing Suburb,874,1,1.0,31.0,7,0,Semi-Furnished,1,0,8928304
+Lucknow,Premium Residential,3283,1,1.0,,3,1,Unfurnished,0,1,15421928
+Bangalore,Outskirts,2313,1,1.0,14.0,3,0,Fully-Furnished,0,1,14709241
+Ahmedabad,Mid-tier,670,2,2.0,27.0,4,0,Unfurnished,0,0,2357699
+Delhi NCR,Mid-tier,2868,2,1.0,23.0,0,2,Semi-Furnished,1,1,31894629
+Chennai,Premium Residential,2320,5,5.0,34.0,16,0,Unfurnished,1,1,16171607
+Kolkata,Premium Residential,3154,1,1.0,21.0,1,1,Unfurnished,1,0,19966683
+Hyderabad,Outskirts,1790,3,2.0,26.0,7,2,Unfurnished,0,1,5753273
+Pune,Outskirts,439,5,4.0,18.0,6,1,Semi-Furnished,0,1,1994947
+Bangalore,Mid-tier,2382,1,1.0,11.0,14,1,Semi-Furnished,1,0,23743889
+Bangalore,Mid-tier,2636,1,,19.0,24,1,Semi-Furnished,0,0,25106713
+Jaipur,Developing Suburb,1393,2,2.0,0.0,4,1,Unfurnished,1,0,4290807
+Ahmedabad,Outskirts,2412,5,4.0,20.0,1,2,Unfurnished,1,1,6691718
+Lucknow,Mid-tier,2983,1,1.0,0.0,6,0,Semi-Furnished,0,1,10686380
+Mumbai,Mid-tier,3475,1,1.0,9.0,7,1,Fully-Furnished,0,1,58628360
+Kolkata,Mid-tier,689,5,4.0,31.0,6,2,Unfurnished,0,0,2681932
+Jaipur,Developing Suburb,2880,3,3.0,38.0,6,1,Semi-Furnished,0,1,7653277
+Delhi NCR,Prime/CBD,2918,5,5.0,21.0,13,0,Unfurnished,1,1,44240691
+Mumbai,Mid-tier,3075,5,4.0,17.0,20,2,Semi-Furnished,0,1,41641236
+Kolkata,Mid-tier,678,3,2.0,31.0,17,2,Fully-Furnished,0,1,3295051
+Hyderabad,Developing Suburb,3324,5,5.0,26.0,5,0,Fully-Furnished,1,1,19439617
+Ahmedabad,Prime/CBD,980,1,1.0,27.0,3,2,Semi-Furnished,0,1,6145086
+Mumbai,Mid-tier,1262,5,5.0,,9,0,Unfurnished,1,1,16843638
+Kolkata,Mid-tier,653,3,3.0,38.0,17,2,Fully-Furnished,0,1,3592431
+Delhi NCR,Mid-tier,580,4,3.0,,11,2,Semi-Furnished,0,0,5829942
+Delhi NCR,Prime/CBD,1080,5,4.0,17.0,15,0,Unfurnished,0,1,16224735
+Delhi NCR,Mid-tier,1224,2,2.0,7.0,24,0,Semi-Furnished,0,1,14483431
+Ahmedabad,Mid-tier,1099,1,1.0,30.0,6,2,Fully-Furnished,1,1,5299573
+Chennai,Mid-tier,3013,1,1.0,33.0,5,2,Fully-Furnished,1,0,18417898
+Pune,Mid-tier,1749,2,2.0,6.0,4,0,Unfurnished,0,0,11506880
+Bangalore,Developing Suburb,1780,2,2.0,35.0,2,0,Semi-Furnished,0,0,10007631
+Ahmedabad,Developing Suburb,2073,5,,17.0,11,2,Fully-Furnished,0,0,10049062
+Bangalore,Premium Residential,3127,2,1.0,37.0,14,2,Unfurnished,0,1,31261656
+Ahmedabad,Developing Suburb,2838,4,3.0,8.0,9,2,Semi-Furnished,0,1,9461346
+Pune,Mid-tier,2038,3,2.0,8.0,19,0,Semi-Furnished,1,0,17537282
+Bangalore,Prime/CBD,2357,2,2.0,7.0,18,2,Semi-Furnished,1,0,30699864
+Pune,Prime/CBD,611,2,2.0,34.0,15,1,Unfurnished,0,1,5511893
+Bangalore,Mid-tier,1938,4,4.0,17.0,10,0,Semi-Furnished,1,0,15147386
+Kolkata,Developing Suburb,783,1,1.0,4.0,7,2,Fully-Furnished,1,1,3828699
+Pune,Developing Suburb,2114,1,1.0,13.0,2,0,Semi-Furnished,0,0,12870194
+Delhi NCR,Developing Suburb,741,5,5.0,27.0,22,1,Semi-Furnished,1,0,6982197
+Jaipur,Mid-tier,2238,4,,,6,0,Unfurnished,1,0,7747296
+Bangalore,Mid-tier,2387,3,3.0,3.0,22,2,Unfurnished,0,0,24094140
+Hyderabad,Premium Residential,1243,3,2.0,38.0,6,1,Semi-Furnished,1,1,8203960
+Jaipur,Mid-tier,1934,4,3.0,19.0,13,1,Unfurnished,0,0,7140939
+Chennai,Mid-tier,819,3,3.0,24.0,1,2,Fully-Furnished,0,1,6063572
+Mumbai,Prime/CBD,3198,1,1.0,27.0,9,2,Unfurnished,1,1,67566889
+Jaipur,Premium Residential,2388,3,3.0,11.0,18,2,Semi-Furnished,0,0,11147284
+Chennai,Mid-tier,2332,3,2.0,1.0,8,0,Unfurnished,0,0,15417367
+Bangalore,Developing Suburb,2249,4,4.0,13.0,15,0,Fully-Furnished,0,1,19345559
+Mumbai,Outskirts,705,4,3.0,21.0,18,0,Unfurnished,1,1,6214814
+Kolkata,Outskirts,3149,3,3.0,30.0,17,2,Unfurnished,1,1,10243666
+Chennai,Mid-tier,1268,2,,22.0,8,2,Unfurnished,1,0,8409565
+Hyderabad,Mid-tier,2984,4,3.0,19.0,15,0,Fully-Furnished,1,0,23572259
+Jaipur,Mid-tier,1535,5,4.0,37.0,12,1,Unfurnished,0,0,4280570
+Kolkata,Developing Suburb,1834,5,5.0,3.0,9,0,Unfurnished,0,1,6445768
+Delhi NCR,Prime/CBD,605,1,1.0,14.0,24,1,Unfurnished,1,1,8610700
+Bangalore,Mid-tier,895,3,2.0,23.0,19,2,Semi-Furnished,1,1,8654138
+Delhi NCR,Developing Suburb,2309,2,2.0,24.0,13,2,Unfurnished,0,1,16626199
+Kolkata,Mid-tier,2951,1,1.0,0.0,11,0,Unfurnished,0,0,14016359
+Mumbai,Mid-tier,1445,3,3.0,6.0,24,0,Unfurnished,1,1,20130913
+Hyderabad,Mid-tier,612,4,3.0,30.0,18,2,Semi-Furnished,1,1,4342841
+Kolkata,Premium Residential,709,5,5.0,11.0,6,0,Semi-Furnished,1,0,4434279
+Ahmedabad,Mid-tier,3108,2,1.0,4.0,22,2,Semi-Furnished,0,1,15900864
+Bangalore,Mid-tier,2391,5,4.0,37.0,14,2,Fully-Furnished,1,1,23071787
+Ahmedabad,Prime/CBD,3200,4,3.0,11.0,15,1,Fully-Furnished,1,1,27416492
+Mumbai,Prime/CBD,671,3,2.0,38.0,7,0,Unfurnished,1,1,11929054
+Ahmedabad,Developing Suburb,2222,4,4.0,17.0,9,2,Semi-Furnished,1,0,10066472
+Mumbai,Premium Residential,3385,4,3.0,1.0,3,0,Semi-Furnished,1,1,61000079
+Bangalore,Mid-tier,2479,5,5.0,9.0,18,1,Fully-Furnished,1,0,23418290
+Kolkata,Premium Residential,842,2,2.0,,18,1,Semi-Furnished,1,1,5596401
+Mumbai,Outskirts,2609,4,3.0,29.0,20,0,Semi-Furnished,1,0,18541781
+Delhi NCR,Premium Residential,3214,5,5.0,16.0,14,0,Semi-Furnished,1,1,54406274
+Kolkata,Mid-tier,653,2,2.0,3.0,13,2,Fully-Furnished,0,1,3708067
+Kolkata,Outskirts,920,3,3.0,6.0,0,1,Unfurnished,1,1,3300843
+Chennai,Developing Suburb,1376,3,2.0,30.0,15,1,Unfurnished,1,0,7096544
+Chennai,Premium Residential,409,1,1.0,38.0,9,1,Unfurnished,1,0,2711511
+Hyderabad,Developing Suburb,3173,5,5.0,33.0,18,0,Unfurnished,0,1,17688958
+Delhi NCR,Mid-tier,2952,2,1.0,5.0,21,2,Semi-Furnished,1,1,34621321
+Bangalore,Mid-tier,3232,4,3.0,37.0,2,0,Unfurnished,0,1,22681689
+Delhi NCR,Premium Residential,1983,3,3.0,33.0,4,0,Unfurnished,1,0,19342351
+Jaipur,Prime/CBD,2883,2,1.0,14.0,8,0,Fully-Furnished,1,1,19210599
+Hyderabad,Developing Suburb,1534,5,5.0,13.0,17,2,Semi-Furnished,0,1,9137043
+Bangalore,Mid-tier,552,1,1.0,5.0,10,0,Semi-Furnished,1,1,5151581
+Pune,Mid-tier,2058,3,3.0,36.0,15,1,Unfurnished,0,1,12744582
+Jaipur,Developing Suburb,3364,2,1.0,31.0,1,1,Unfurnished,0,1,9292126
+Delhi NCR,Developing Suburb,3316,2,2.0,2.0,11,1,Fully-Furnished,1,0,33778652
+Hyderabad,Premium Residential,3200,2,1.0,2.0,21,2,Semi-Furnished,0,0,30427655
+Pune,Mid-tier,2256,5,4.0,21.0,5,0,Unfurnished,0,1,15283335
+Hyderabad,Premium Residential,1614,5,5.0,21.0,10,2,Fully-Furnished,0,0,13523250
+Mumbai,Developing Suburb,2152,5,4.0,9.0,7,0,Fully-Furnished,0,1,29244813
+Ahmedabad,Developing Suburb,3010,4,3.0,2.0,11,1,Fully-Furnished,1,1,13566478
+Jaipur,Outskirts,1504,2,1.0,11.0,1,0,Semi-Furnished,0,1,3364554
+Hyderabad,Prime/CBD,2936,3,2.0,28.0,8,0,Unfurnished,1,1,28155966
+Chennai,Prime/CBD,1294,5,4.0,16.0,14,0,Semi-Furnished,0,0,12326424
+Jaipur,Premium Residential,1511,5,5.0,6.0,1,2,Semi-Furnished,0,0,8799427
+Chennai,Premium Residential,503,2,1.0,,0,0,Unfurnished,0,1,4096610
+Delhi NCR,Premium Residential,2314,5,5.0,1.0,9,0,Semi-Furnished,1,0,32587241
+Hyderabad,Outskirts,3472,4,4.0,3.0,1,0,Unfurnished,1,1,16497754
+Hyderabad,Premium Residential,1406,4,4.0,9.0,11,2,Semi-Furnished,1,1,16067659
+Bangalore,Premium Residential,806,5,5.0,38.0,22,2,Unfurnished,1,0,8543773
+Kolkata,Developing Suburb,1801,2,2.0,23.0,7,2,Semi-Furnished,0,0,7328033
+Jaipur,Mid-tier,566,2,2.0,16.0,4,0,Unfurnished,1,1,1987474
+Jaipur,Developing Suburb,908,2,1.0,5.0,21,1,Fully-Furnished,1,1,4036516
+Pune,Prime/CBD,2061,1,1.0,18.0,0,1,Semi-Furnished,0,0,21802811
+Mumbai,Mid-tier,2760,5,4.0,4.0,14,1,Semi-Furnished,0,1,40393897
+Lucknow,Prime/CBD,1162,2,2.0,31.0,5,0,Fully-Furnished,1,1,6443224
+Ahmedabad,Prime/CBD,1080,4,3.0,9.0,11,1,Semi-Furnished,0,1,8009408
+Mumbai,Outskirts,2924,3,2.0,8.0,7,1,Fully-Furnished,1,0,26863476
+Jaipur,Premium Residential,2520,3,2.0,26.0,12,1,Unfurnished,0,0,9724236
+Ahmedabad,Mid-tier,1564,2,2.0,,18,0,Unfurnished,0,1,7391076
+Pune,Mid-tier,981,3,2.0,18.0,0,1,Unfurnished,1,1,6398622
+Hyderabad,Mid-tier,661,3,3.0,20.0,10,1,Unfurnished,1,1,3916189
+Bangalore,Outskirts,1763,1,1.0,23.0,19,0,Fully-Furnished,0,1,10022637
+Mumbai,Prime/CBD,1731,4,4.0,37.0,0,2,Unfurnished,1,1,28807042
+Bangalore,Developing Suburb,2692,4,4.0,3.0,7,1,Semi-Furnished,0,0,20810693
+Ahmedabad,Outskirts,1938,1,1.0,23.0,4,2,Semi-Furnished,0,1,5157358
+Mumbai,Mid-tier,960,1,1.0,34.0,16,1,Semi-Furnished,1,1,12563322
+Bangalore,Outskirts,1499,3,2.0,2.0,7,0,Semi-Furnished,1,1,10320628
+Bangalore,Prime/CBD,2303,5,5.0,3.0,24,2,Semi-Furnished,0,0,34009626
+Hyderabad,Mid-tier,574,3,2.0,36.0,9,2,Unfurnished,0,1,3097031
+Jaipur,Premium Residential,2556,1,1.0,39.0,1,2,Unfurnished,1,0,9369194
+Bangalore,Developing Suburb,2630,4,4.0,34.0,8,2,Semi-Furnished,0,0,17596976
+Bangalore,Outskirts,591,3,2.0,30.0,23,1,Semi-Furnished,1,1,3419338
+Kolkata,Premium Residential,464,5,4.0,24.0,22,1,Semi-Furnished,1,1,3354059
+Pune,Developing Suburb,3410,3,2.0,39.0,2,2,Fully-Furnished,0,1,18959554
+Delhi NCR,Premium Residential,1897,2,2.0,12.0,17,1,Semi-Furnished,1,1,26484832
+Pune,Mid-tier,1967,3,3.0,3.0,6,2,Semi-Furnished,1,0,17761988
+Mumbai,Mid-tier,3311,1,1.0,13.0,14,2,Unfurnished,0,0,46569912
+Delhi NCR,Outskirts,1551,4,4.0,12.0,20,0,Semi-Furnished,0,0,9369817
+Pune,Mid-tier,2337,4,3.0,26.0,21,2,Semi-Furnished,0,0,14119327
+Bangalore,Mid-tier,768,1,1.0,5.0,19,1,Unfurnished,1,1,7208040
+Jaipur,Prime/CBD,1250,2,1.0,16.0,17,2,Unfurnished,1,1,7479250
+Bangalore,Premium Residential,442,1,1.0,35.0,24,0,Semi-Furnished,0,1,4443667
+Hyderabad,Premium Residential,2307,3,3.0,39.0,2,1,Unfurnished,0,0,15714255
+Chennai,Premium Residential,2935,1,1.0,34.0,22,0,Unfurnished,0,1,18815678
+Mumbai,Developing Suburb,477,1,1.0,16.0,13,0,Semi-Furnished,1,1,4470963
+Chennai,Mid-tier,3273,2,2.0,1.0,23,2,Unfurnished,0,1,20662968
+Delhi NCR,Mid-tier,2224,3,2.0,12.0,1,0,Fully-Furnished,1,0,26341880
+Lucknow,Prime/CBD,1693,5,5.0,1.0,13,0,Unfurnished,0,1,9603321
+Mumbai,Developing Suburb,1073,5,4.0,27.0,21,1,Semi-Furnished,1,0,10004689
+Bangalore,Developing Suburb,1100,4,4.0,25.0,10,0,Semi-Furnished,1,1,9355835
+Mumbai,Prime/CBD,1158,1,1.0,21.0,15,2,Fully-Furnished,1,1,25469658
+Lucknow,Developing Suburb,2323,4,3.0,2.0,7,2,Unfurnished,0,0,6503210
+Pune,Mid-tier,3175,2,1.0,34.0,6,2,Semi-Furnished,1,1,20201413
+Hyderabad,Prime/CBD,3372,5,4.0,,10,0,Semi-Furnished,0,0,38256280
+Mumbai,Mid-tier,1301,1,1.0,23.0,2,1,Semi-Furnished,0,0,16513445
+Kolkata,Mid-tier,3336,2,2.0,4.0,16,2,Semi-Furnished,1,0,19848056
+Delhi NCR,Premium Residential,1392,2,2.0,19.0,13,0,Semi-Furnished,1,1,16805737
+Jaipur,Outskirts,1591,1,1.0,38.0,5,2,Fully-Furnished,0,1,3985148
+Delhi NCR,Developing Suburb,2786,2,2.0,38.0,7,2,Unfurnished,0,1,18903557
+Delhi NCR,Developing Suburb,2640,1,1.0,12.0,21,1,Unfurnished,1,1,22766041
+Mumbai,Mid-tier,1876,1,1.0,11.0,4,2,Fully-Furnished,1,1,28924840
+Pune,Mid-tier,2730,3,2.0,12.0,7,1,Unfurnished,0,1,17932153
+Hyderabad,Developing Suburb,789,4,3.0,9.0,1,0,Fully-Furnished,1,0,5068815
+Mumbai,Mid-tier,1399,2,1.0,32.0,14,2,Semi-Furnished,0,0,17282937
+Kolkata,Prime/CBD,924,2,1.0,39.0,11,0,Semi-Furnished,1,0,5614267
+Pune,Mid-tier,2255,3,3.0,15.0,16,0,Unfurnished,1,1,16523474
+Pune,Developing Suburb,1906,3,3.0,34.0,0,0,Unfurnished,0,0,8815499
+Pune,Mid-tier,1058,3,3.0,2.0,14,2,Semi-Furnished,1,0,9369080
+Bangalore,Prime/CBD,3163,5,4.0,,13,1,Fully-Furnished,0,0,49260463
+Hyderabad,Developing Suburb,1290,5,5.0,25.0,19,2,Fully-Furnished,1,1,8288506
+Delhi NCR,Premium Residential,1881,5,4.0,10.0,21,0,Unfurnished,1,1,26547272
+Delhi NCR,Premium Residential,851,1,1.0,6.0,15,1,Unfurnished,1,1,10785551
+Ahmedabad,Premium Residential,2875,2,2.0,9.0,8,0,Unfurnished,0,0,14055036
+Jaipur,Mid-tier,1937,4,4.0,33.0,0,1,Fully-Furnished,0,0,6630003
+Bangalore,Developing Suburb,3493,1,1.0,2.0,16,2,Unfurnished,0,1,27929852
+Delhi NCR,Mid-tier,1282,2,1.0,7.0,12,1,Unfurnished,1,1,13460820
+Chennai,Premium Residential,712,2,1.0,30.0,20,2,Unfurnished,1,0,5034117
+Bangalore,Outskirts,1239,3,3.0,10.0,20,0,Unfurnished,1,1,7942203
+Mumbai,Outskirts,2966,3,2.0,6.0,4,1,Fully-Furnished,0,1,31548433
+Delhi NCR,Outskirts,774,1,1.0,1.0,9,0,Semi-Furnished,1,0,5924322
+Kolkata,Premium Residential,850,3,3.0,5.0,5,1,Unfurnished,1,0,5216965
+Chennai,Mid-tier,3462,2,2.0,31.0,23,2,Unfurnished,1,0,21786546
+Mumbai,Outskirts,994,3,3.0,19.0,18,1,Unfurnished,0,1,9306147
+Delhi NCR,Developing Suburb,1633,5,4.0,33.0,24,1,Unfurnished,0,1,12421348
+Delhi NCR,Prime/CBD,899,3,3.0,15.0,12,2,Unfurnished,1,1,13677818
+Chennai,Prime/CBD,863,2,2.0,24.0,0,2,Semi-Furnished,1,1,8133971
+Mumbai,Mid-tier,512,1,1.0,11.0,19,2,Unfurnished,0,1,6079525
+Mumbai,Outskirts,1435,4,4.0,6.0,24,1,Unfurnished,1,1,14441549
+Kolkata,Mid-tier,2778,3,2.0,38.0,14,0,Unfurnished,0,0,10994653
+Delhi NCR,Mid-tier,2324,2,2.0,16.0,13,1,Semi-Furnished,1,0,23890940
+Chennai,Prime/CBD,539,4,4.0,10.0,7,1,Semi-Furnished,1,0,5995819
+Delhi NCR,Developing Suburb,1824,4,4.0,5.0,9,0,Semi-Furnished,0,1,17857758
+Mumbai,Developing Suburb,3349,5,5.0,22.0,8,2,Semi-Furnished,1,0,36171464
+Delhi NCR,Mid-tier,916,4,4.0,26.0,16,1,Semi-Furnished,0,1,8781453
+Kolkata,Developing Suburb,3016,2,2.0,5.0,8,0,Unfurnished,0,0,11394505
+Ahmedabad,Outskirts,2347,2,1.0,37.0,2,2,Fully-Furnished,1,1,7851435
+Ahmedabad,Premium Residential,3293,3,3.0,1.0,10,2,Unfurnished,0,0,21339234
+Bangalore,Mid-tier,2565,3,2.0,21.0,11,1,Semi-Furnished,0,0,23764537
+Chennai,Premium Residential,1287,3,2.0,19.0,9,2,Semi-Furnished,0,1,10349924
+Delhi NCR,Developing Suburb,1741,4,4.0,24.0,24,2,Semi-Furnished,0,1,14601092
+Delhi NCR,Mid-tier,449,4,3.0,14.0,16,0,Fully-Furnished,0,1,5336893
+Jaipur,Mid-tier,418,5,5.0,28.0,16,0,Semi-Furnished,0,0,1764544
+Mumbai,Developing Suburb,1125,3,2.0,7.0,24,2,Fully-Furnished,1,0,15259949
+Mumbai,Mid-tier,2644,1,1.0,36.0,10,0,Fully-Furnished,0,1,33029913
+Delhi NCR,Outskirts,1873,5,4.0,32.0,21,2,Fully-Furnished,1,1,10734455
+Mumbai,Mid-tier,3006,1,1.0,21.0,3,1,Fully-Furnished,0,0,39653096
+Delhi NCR,Premium Residential,851,4,,4.0,6,0,Fully-Furnished,0,1,11252898
+Hyderabad,Developing Suburb,2736,5,4.0,38.0,20,2,Semi-Furnished,0,1,13374293
+Bangalore,Developing Suburb,1564,5,5.0,17.0,13,2,Unfurnished,1,1,12491641
+Jaipur,Premium Residential,1507,2,2.0,37.0,6,0,Unfurnished,1,1,5743666
+Ahmedabad,Developing Suburb,2838,4,4.0,36.0,23,0,Semi-Furnished,1,0,9304338
+Bangalore,Outskirts,614,4,4.0,29.0,7,1,Fully-Furnished,0,1,3484553
+Delhi NCR,Premium Residential,1949,5,5.0,30.0,0,2,Semi-Furnished,1,1,24353214
+Bangalore,Outskirts,2662,4,3.0,9.0,23,1,Fully-Furnished,0,1,18268480
+Hyderabad,Premium Residential,527,5,4.0,14.0,21,1,Fully-Furnished,0,0,4873471
+Delhi NCR,Premium Residential,2245,2,1.0,17.0,3,1,Unfurnished,1,0,26108224
+Chennai,Premium Residential,1159,5,5.0,22.0,11,0,Unfurnished,0,1,9813934
+Bangalore,Outskirts,2851,4,3.0,32.0,23,1,Unfurnished,1,0,12520846
+Hyderabad,Developing Suburb,2215,4,3.0,15.0,2,0,Unfurnished,0,1,11738430
+Pune,Premium Residential,2785,5,4.0,37.0,12,0,Semi-Furnished,1,0,22468080
+Delhi NCR,Mid-tier,3278,5,4.0,34.0,19,1,Fully-Furnished,1,1,35511289
+Jaipur,Mid-tier,3161,5,4.0,33.0,5,1,Semi-Furnished,1,0,10814674
+Kolkata,Prime/CBD,760,3,3.0,27.0,10,2,Semi-Furnished,0,1,5376230
+Mumbai,Outskirts,968,4,4.0,1.0,22,1,Unfurnished,0,1,7768873
+Ahmedabad,Developing Suburb,1815,4,3.0,29.0,3,2,Unfurnished,1,1,6527106
+Pune,Mid-tier,2665,3,3.0,12.0,19,1,Semi-Furnished,0,1,20938403
+Jaipur,Outskirts,1997,5,5.0,,15,1,Unfurnished,1,0,4679915
+Kolkata,Mid-tier,2092,2,1.0,4.0,6,1,Unfurnished,1,1,13057935
+Bangalore,Outskirts,601,5,4.0,27.0,21,1,Semi-Furnished,0,1,3492648
+Mumbai,Developing Suburb,2464,5,5.0,38.0,10,2,Unfurnished,1,1,24324655
+Delhi NCR,Mid-tier,2769,3,2.0,19.0,23,2,Fully-Furnished,1,1,36692214
+Hyderabad,Premium Residential,917,4,4.0,23.0,0,1,Unfurnished,0,1,8027734
+Chennai,Outskirts,1748,5,5.0,26.0,6,1,Unfurnished,0,1,6207818
+Delhi NCR,Mid-tier,1835,4,3.0,29.0,11,2,Unfurnished,0,0,15584715
+Mumbai,Premium Residential,1741,1,1.0,26.0,6,0,Unfurnished,0,1,23671693
+Ahmedabad,Prime/CBD,1080,4,4.0,25.0,22,0,Semi-Furnished,1,1,7023425
+Lucknow,Mid-tier,2388,2,2.0,6.0,6,0,Semi-Furnished,0,0,8537871
+Pune,Mid-tier,1891,2,1.0,37.0,9,2,Semi-Furnished,1,1,11587145
+Delhi NCR,Developing Suburb,824,5,,4.0,15,2,Semi-Furnished,0,0,8569766
+Delhi NCR,Outskirts,2368,4,3.0,22.0,7,0,Unfurnished,1,1,15601947
+Mumbai,Prime/CBD,2112,5,4.0,,8,0,Semi-Furnished,1,1,45394766
+Jaipur,Developing Suburb,3466,3,3.0,,8,1,Unfurnished,0,1,8575727
+Mumbai,Premium Residential,2834,2,1.0,14.0,1,2,Unfurnished,0,1,42638688
+Hyderabad,Developing Suburb,1177,5,4.0,31.0,12,2,Semi-Furnished,1,1,7021437
+Delhi NCR,Developing Suburb,2545,3,2.0,25.0,12,0,Fully-Furnished,1,1,24158483
+Hyderabad,Mid-tier,2226,5,4.0,30.0,22,0,Semi-Furnished,0,0,13446055
+Chennai,Developing Suburb,607,4,4.0,18.0,22,2,Unfurnished,0,1,3242689
+Ahmedabad,Premium Residential,1937,4,4.0,,3,1,Unfurnished,0,1,10731954
+Delhi NCR,Mid-tier,2059,4,4.0,28.0,24,0,Fully-Furnished,0,1,21554668
+Mumbai,Developing Suburb,3033,4,3.0,38.0,23,2,Unfurnished,1,0,26473002
+Mumbai,Mid-tier,2613,1,1.0,3.0,11,2,Unfurnished,1,1,33647306
+Jaipur,Mid-tier,421,3,3.0,2.0,16,1,Unfurnished,0,0,1768764
+Ahmedabad,Mid-tier,553,3,2.0,28.0,1,1,Unfurnished,1,1,2282654
+Hyderabad,Developing Suburb,2362,4,3.0,10.0,12,0,Unfurnished,0,1,14056767
+Hyderabad,Mid-tier,618,1,1.0,32.0,17,0,Semi-Furnished,1,1,3953162
+Chennai,Premium Residential,1068,4,4.0,37.0,14,0,Semi-Furnished,0,1,7947379
+Delhi NCR,Developing Suburb,1918,1,1.0,10.0,7,2,Fully-Furnished,0,1,16803041
+Jaipur,Developing Suburb,2677,4,3.0,26.0,14,0,Unfurnished,0,1,6844684
+Bangalore,Prime/CBD,2467,2,1.0,32.0,0,2,Unfurnished,0,1,26661466
+Bangalore,Premium Residential,3000,2,2.0,20.0,19,0,Semi-Furnished,1,1,38943988
+Pune,Premium Residential,1349,5,5.0,38.0,9,1,Semi-Furnished,1,0,11622753
+Mumbai,Mid-tier,2595,4,4.0,30.0,11,1,Semi-Furnished,0,0,30058212
+Delhi NCR,Mid-tier,802,3,3.0,37.0,4,2,Fully-Furnished,1,1,7906459
+Kolkata,Developing Suburb,995,5,,1.0,8,1,Unfurnished,0,1,4198631
+Mumbai,Developing Suburb,2814,2,2.0,26.0,22,2,Fully-Furnished,1,0,28153946
+Hyderabad,Mid-tier,1837,4,4.0,35.0,7,2,Semi-Furnished,0,1,11340298
+Delhi NCR,Mid-tier,3249,5,4.0,10.0,15,1,Unfurnished,0,0,37852329
+Bangalore,Developing Suburb,3365,4,3.0,,13,2,Fully-Furnished,0,0,31511736
+Delhi NCR,Mid-tier,1557,2,1.0,0.0,24,1,Semi-Furnished,1,1,19860000
+Bangalore,Outskirts,2142,5,5.0,34.0,12,0,Unfurnished,1,1,10842546
+Kolkata,Mid-tier,1706,2,1.0,34.0,22,0,Unfurnished,0,1,6384158
+Delhi NCR,Premium Residential,472,1,1.0,30.0,20,1,Unfurnished,0,1,5430376
+Hyderabad,Developing Suburb,880,2,2.0,27.0,12,1,Semi-Furnished,0,1,4624048
+Pune,Mid-tier,959,4,4.0,38.0,4,1,Unfurnished,1,1,5799103
+Chennai,Developing Suburb,1144,3,2.0,0.0,15,1,Unfurnished,1,0,6436039
+Jaipur,Prime/CBD,1866,2,2.0,24.0,10,0,Unfurnished,0,1,9542327
+Kolkata,Premium Residential,499,3,2.0,37.0,21,2,Semi-Furnished,0,0,2553897
+Delhi NCR,Developing Suburb,1482,1,1.0,19.0,4,2,Fully-Furnished,1,1,13822351
+Mumbai,Premium Residential,2955,5,5.0,2.0,12,0,Semi-Furnished,0,0,48048234
+Delhi NCR,Developing Suburb,2705,5,4.0,1.0,10,2,Unfurnished,0,1,29575356
+Hyderabad,Premium Residential,812,3,3.0,17.0,24,0,Fully-Furnished,0,0,6613452
+Mumbai,Mid-tier,1488,5,5.0,9.0,18,2,Semi-Furnished,0,1,23777496
+Pune,Developing Suburb,3042,2,2.0,,2,1,Fully-Furnished,1,0,18710726
+Hyderabad,Mid-tier,1577,3,,8.0,14,1,Semi-Furnished,1,1,11776227
+Bangalore,Premium Residential,2408,4,4.0,1.0,6,1,Semi-Furnished,0,0,31939783
+Kolkata,Premium Residential,2713,2,2.0,33.0,6,0,Semi-Furnished,1,0,16303997
+Mumbai,Prime/CBD,1220,2,1.0,37.0,5,0,Unfurnished,0,0,18994659
+Mumbai,Premium Residential,1061,2,1.0,30.0,2,2,Semi-Furnished,1,1,16404522
+Kolkata,Developing Suburb,3394,4,3.0,9.0,12,2,Fully-Furnished,1,1,16858548
+Pune,Outskirts,959,1,1.0,11.0,6,2,Fully-Furnished,1,0,4439050
+Chennai,Outskirts,3364,5,5.0,35.0,4,0,Fully-Furnished,0,0,14951147
+Pune,Developing Suburb,3338,3,3.0,20.0,22,2,Semi-Furnished,0,1,20280731
+Delhi NCR,Developing Suburb,1671,1,1.0,,17,1,Unfurnished,0,0,13701298
+Ahmedabad,Developing Suburb,2213,3,2.0,2.0,21,2,Unfurnished,1,0,9913869
+Kolkata,Premium Residential,3315,5,4.0,9.0,7,1,Semi-Furnished,0,0,23202465
+Chennai,Outskirts,1009,4,4.0,4.0,16,0,Semi-Furnished,1,0,4775860
+Delhi NCR,Developing Suburb,2861,2,1.0,25.0,19,1,Unfurnished,1,0,22877250
+Hyderabad,Mid-tier,424,2,1.0,20.0,0,1,Unfurnished,1,0,2431452
+Bangalore,Prime/CBD,2428,4,4.0,25.0,13,1,Semi-Furnished,1,1,29459438
+Mumbai,Mid-tier,683,1,1.0,37.0,16,0,Semi-Furnished,0,1,8499563
+Jaipur,Mid-tier,1872,1,1.0,25.0,9,0,Fully-Furnished,0,0,6456378
+Mumbai,Developing Suburb,3328,3,2.0,7.0,11,0,Semi-Furnished,0,1,37791919
+Lucknow,Mid-tier,700,4,3.0,4.0,15,0,Semi-Furnished,1,0,2580851
+Pune,Mid-tier,1491,1,1.0,14.0,13,2,Semi-Furnished,0,1,10316454
+Delhi NCR,Outskirts,1430,4,4.0,15.0,15,0,Fully-Furnished,1,0,11454424
+Hyderabad,Prime/CBD,1216,5,5.0,0.0,7,1,Semi-Furnished,0,1,14182527
+Ahmedabad,Mid-tier,482,2,2.0,15.0,22,0,Fully-Furnished,0,0,2264901
+Kolkata,Prime/CBD,2320,2,2.0,36.0,9,2,Fully-Furnished,1,1,15415884
+Ahmedabad,Developing Suburb,2493,2,1.0,2.0,16,2,Fully-Furnished,0,0,11154255
+Chennai,Outskirts,1017,4,3.0,30.0,17,2,Unfurnished,0,1,3136591
+Chennai,Premium Residential,3375,4,3.0,12.0,19,1,Unfurnished,1,1,29871000
+Ahmedabad,Developing Suburb,2709,3,3.0,15.0,15,0,Unfurnished,0,1,10793706
+Delhi NCR,Premium Residential,575,2,2.0,20.0,16,0,Unfurnished,0,1,6581082
+Pune,Outskirts,1589,3,3.0,1.0,15,0,Unfurnished,0,1,8284318
+Delhi NCR,Developing Suburb,3104,2,1.0,26.0,18,1,Unfurnished,0,0,19944872
+Lucknow,Developing Suburb,1241,3,3.0,37.0,23,1,Unfurnished,1,0,3324425
+Jaipur,Prime/CBD,769,3,3.0,,23,2,Semi-Furnished,1,1,4875908
+Mumbai,Outskirts,2218,5,4.0,37.0,7,2,Semi-Furnished,0,0,17318804
+Chennai,Developing Suburb,2501,3,3.0,24.0,5,0,Unfurnished,0,1,11469908
+Jaipur,Premium Residential,1089,4,3.0,10.0,5,1,Semi-Furnished,0,0,4982901
+Delhi NCR,Developing Suburb,2179,3,3.0,7.0,20,1,Semi-Furnished,1,1,20948215
+Hyderabad,Premium Residential,1764,2,2.0,7.0,8,0,Semi-Furnished,0,1,16475931
+Jaipur,Outskirts,1832,3,2.0,32.0,3,0,Fully-Furnished,0,1,3834384
+Mumbai,Prime/CBD,766,1,1.0,6.0,11,2,Unfurnished,1,1,15501242
+Chennai,Developing Suburb,1043,2,1.0,37.0,11,2,Unfurnished,1,0,4972611
+Delhi NCR,Mid-tier,2826,1,1.0,20.0,22,2,Semi-Furnished,0,1,30691329
+Jaipur,Prime/CBD,472,2,1.0,7.0,16,0,Unfurnished,0,0,2646620
+Lucknow,Premium Residential,3362,4,3.0,20.0,14,0,Semi-Furnished,0,1,12238840
+Jaipur,Prime/CBD,1671,4,4.0,19.0,8,2,Unfurnished,0,1,9829486
+Pune,Mid-tier,1259,4,4.0,7.0,6,2,Unfurnished,1,1,9918297
+Ahmedabad,Premium Residential,442,1,1.0,30.0,9,1,Unfurnished,1,1,1992079
+Ahmedabad,Mid-tier,2824,5,5.0,28.0,15,1,Unfurnished,1,0,12067567
+Bangalore,Premium Residential,1464,2,1.0,8.0,11,2,Semi-Furnished,0,1,14974217
+Ahmedabad,Premium Residential,2617,4,4.0,14.0,24,2,Semi-Furnished,0,1,16934666
+Mumbai,Developing Suburb,2659,2,1.0,29.0,6,1,Unfurnished,0,1,24381330
+Hyderabad,Prime/CBD,1916,1,1.0,25.0,17,2,Unfurnished,0,0,14176026
+Delhi NCR,Outskirts,2486,5,5.0,9.0,14,1,Unfurnished,1,1,17360251
+Mumbai,Developing Suburb,768,1,1.0,28.0,5,1,Unfurnished,0,0,6361320
+Mumbai,Developing Suburb,3204,2,2.0,15.0,11,1,Fully-Furnished,0,1,35934391
+Chennai,Mid-tier,550,5,5.0,35.0,10,0,Unfurnished,0,0,2464088
+Bangalore,Outskirts,1534,5,4.0,19.0,19,0,Semi-Furnished,0,1,8098434
+Kolkata,Premium Residential,1903,1,1.0,36.0,2,2,Fully-Furnished,0,0,10358775
+Mumbai,Prime/CBD,1859,4,3.0,,1,1,Unfurnished,1,1,33984599
+Bangalore,Premium Residential,1470,2,2.0,6.0,5,0,Semi-Furnished,0,0,18006438
+Hyderabad,Developing Suburb,1423,3,2.0,22.0,23,2,Fully-Furnished,1,1,8427268
+Kolkata,Prime/CBD,1998,3,3.0,39.0,21,2,Fully-Furnished,0,0,13153910
+Bangalore,Mid-tier,3184,1,1.0,28.0,24,2,Semi-Furnished,0,1,26411924
+Chennai,Outskirts,2440,2,2.0,15.0,4,2,Semi-Furnished,1,0,10418216
+Jaipur,Developing Suburb,1789,2,1.0,37.0,17,2,Fully-Furnished,0,1,5379928
+Hyderabad,Mid-tier,468,1,1.0,27.0,15,1,Unfurnished,1,0,2607542
+Delhi NCR,Prime/CBD,2746,2,1.0,37.0,7,2,Fully-Furnished,0,0,38505269
+Mumbai,Developing Suburb,1343,4,3.0,30.0,24,1,Semi-Furnished,1,1,17544539
+Ahmedabad,Mid-tier,1201,1,1.0,13.0,19,0,Semi-Furnished,1,0,5217415
+Mumbai,Prime/CBD,2743,4,4.0,32.0,21,2,Fully-Furnished,1,0,57091901
+Ahmedabad,Prime/CBD,2650,2,,8.0,10,0,Fully-Furnished,1,1,20886659
+Pune,Outskirts,460,1,1.0,26.0,9,1,Unfurnished,1,1,2042732
+Jaipur,Developing Suburb,1345,2,1.0,23.0,23,1,Unfurnished,0,1,3908156
+Kolkata,Developing Suburb,3410,1,1.0,12.0,24,0,Semi-Furnished,1,0,13769357
+Lucknow,Outskirts,1737,2,1.0,25.0,11,2,Semi-Furnished,1,0,3224555
+Bangalore,Mid-tier,1584,4,3.0,28.0,20,2,Semi-Furnished,0,1,15121330
+Kolkata,Mid-tier,730,4,4.0,27.0,5,0,Fully-Furnished,0,0,3332420
+Bangalore,Mid-tier,1951,2,1.0,27.0,19,0,Fully-Furnished,1,1,20596744
+Pune,Premium Residential,737,1,1.0,7.0,4,0,Semi-Furnished,0,0,6614878
+Chennai,Mid-tier,2029,3,2.0,22.0,22,2,Unfurnished,0,1,12880228
+Ahmedabad,Developing Suburb,1727,4,3.0,28.0,8,2,Semi-Furnished,1,1,5937494
+Lucknow,Mid-tier,1926,4,4.0,4.0,15,2,Semi-Furnished,0,1,7770105
+Kolkata,Outskirts,2073,3,3.0,6.0,21,0,Semi-Furnished,0,0,8003229
+Bangalore,Mid-tier,1761,2,1.0,35.0,13,2,Semi-Furnished,1,1,14691587
+Bangalore,Mid-tier,1973,1,1.0,26.0,21,1,Semi-Furnished,0,0,15322133
+Kolkata,Mid-tier,3086,2,1.0,,7,0,Unfurnished,1,1,16631726
+Delhi NCR,Mid-tier,674,5,5.0,24.0,19,2,Unfurnished,0,1,6919538
+Mumbai,Developing Suburb,1587,4,4.0,8.0,18,0,Semi-Furnished,0,0,17408834
+Bangalore,Premium Residential,2766,5,5.0,26.0,13,1,Unfurnished,0,1,31215815
+Delhi NCR,Mid-tier,3036,4,4.0,0.0,6,1,Unfurnished,1,1,40301921
+Delhi NCR,Prime/CBD,2951,4,4.0,22.0,4,0,Unfurnished,0,0,39610261
+Delhi NCR,Mid-tier,2834,5,5.0,9.0,17,0,Semi-Furnished,0,1,31271180
+Mumbai,Mid-tier,2393,5,4.0,24.0,1,1,Unfurnished,0,0,29406427
+Mumbai,Developing Suburb,1269,2,2.0,2.0,10,0,Fully-Furnished,0,1,17536160
+Lucknow,Outskirts,3280,5,5.0,5.0,21,1,Semi-Furnished,0,1,8147773
+Bangalore,Mid-tier,1414,2,1.0,5.0,7,1,Semi-Furnished,0,1,14489501
+Bangalore,Developing Suburb,2311,2,2.0,1.0,0,2,Semi-Furnished,1,0,20471273
+Chennai,Mid-tier,1002,2,,17.0,21,0,Unfurnished,0,1,5776456
+Delhi NCR,Mid-tier,2199,4,4.0,22.0,11,0,Semi-Furnished,1,1,24198744
+Jaipur,Prime/CBD,1090,4,3.0,1.0,1,2,Fully-Furnished,1,1,7036018
+Kolkata,Premium Residential,893,5,4.0,11.0,17,1,Semi-Furnished,0,1,5893435
+Mumbai,Mid-tier,889,4,3.0,21.0,6,0,Fully-Furnished,0,1,13700361
+Bangalore,Mid-tier,3168,5,4.0,36.0,16,2,Semi-Furnished,1,1,30923128
+Ahmedabad,Prime/CBD,2956,4,3.0,,21,2,Unfurnished,1,1,20034829
+Jaipur,Premium Residential,789,1,1.0,38.0,22,0,Unfurnished,0,0,3192888
+Pune,Premium Residential,694,1,1.0,23.0,13,2,Semi-Furnished,1,1,5476595
+Hyderabad,Outskirts,1792,5,4.0,19.0,23,1,Unfurnished,0,0,7117761
+Delhi NCR,Mid-tier,3243,4,3.0,0.0,6,2,Unfurnished,0,0,35464865
+Lucknow,Mid-tier,3312,4,3.0,0.0,21,1,Fully-Furnished,0,1,10759720
+Delhi NCR,Premium Residential,2117,2,2.0,16.0,24,1,Unfurnished,1,1,26363399
+Jaipur,Mid-tier,2996,3,2.0,0.0,2,0,Unfurnished,1,1,11308176
+Chennai,Premium Residential,1048,5,4.0,29.0,5,2,Fully-Furnished,1,1,8611290
+Hyderabad,Premium Residential,2273,3,2.0,2.0,19,1,Fully-Furnished,0,1,22094539
+Pune,Mid-tier,967,3,2.0,10.0,1,1,Unfurnished,0,1,5800549
+Delhi NCR,Prime/CBD,3300,5,5.0,23.0,16,2,Fully-Furnished,0,1,51231634
+Delhi NCR,Prime/CBD,3217,4,3.0,21.0,11,1,Fully-Furnished,1,0,44895210
+Delhi NCR,Premium Residential,844,5,4.0,25.0,11,2,Semi-Furnished,0,0,10453255
+Delhi NCR,Prime/CBD,762,3,3.0,12.0,16,0,Unfurnished,0,0,10724471
+Kolkata,Prime/CBD,2570,4,3.0,0.0,9,1,Unfurnished,0,1,20014293
+Bangalore,Mid-tier,1611,1,1.0,23.0,2,1,Semi-Furnished,1,1,15573612
+Mumbai,Developing Suburb,1141,5,5.0,9.0,19,2,Unfurnished,0,0,12460599
+Lucknow,Mid-tier,2441,5,5.0,34.0,17,2,Fully-Furnished,0,1,8356159
+Jaipur,Mid-tier,1079,4,4.0,23.0,12,2,Semi-Furnished,0,0,3736978
+Jaipur,Premium Residential,2867,1,1.0,27.0,11,2,Semi-Furnished,1,0,10293752
+Lucknow,Outskirts,2042,1,1.0,35.0,16,1,Fully-Furnished,1,1,4175803
+Delhi NCR,Mid-tier,1972,4,4.0,15.0,3,0,Fully-Furnished,1,1,22792524
+Bangalore,Prime/CBD,1758,2,2.0,39.0,22,0,Unfurnished,0,0,20494354
+Kolkata,Mid-tier,2539,5,5.0,15.0,9,0,Unfurnished,0,1,13460580
+Chennai,Prime/CBD,462,5,4.0,16.0,10,0,Semi-Furnished,1,1,4751915
+Delhi NCR,Mid-tier,2959,3,2.0,14.0,5,2,Unfurnished,0,1,29873466
+Ahmedabad,Mid-tier,1562,4,4.0,15.0,5,1,Semi-Furnished,0,0,7728950
+Delhi NCR,Outskirts,1628,3,2.0,14.0,8,1,Semi-Furnished,0,1,11406357
+Delhi NCR,Mid-tier,3219,3,3.0,33.0,14,1,Fully-Furnished,1,0,36977362
+Hyderabad,Developing Suburb,655,1,1.0,10.0,1,2,Semi-Furnished,0,1,3416395
+Hyderabad,Outskirts,534,5,4.0,0.0,3,1,Semi-Furnished,1,1,2976756
+Hyderabad,Premium Residential,1274,3,2.0,14.0,4,2,Unfurnished,1,1,10276996
+Mumbai,Premium Residential,1221,1,1.0,25.0,16,1,Semi-Furnished,0,0,18142846
+Ahmedabad,Mid-tier,2535,4,4.0,3.0,7,0,Unfurnished,0,0,11134881
+Delhi NCR,Mid-tier,3435,3,2.0,4.0,7,2,Fully-Furnished,1,0,42063993
+Mumbai,Mid-tier,1222,5,4.0,34.0,21,1,Unfurnished,1,1,15428208
+Jaipur,Outskirts,3474,3,3.0,12.0,11,0,Semi-Furnished,1,0,9293253
+Lucknow,Developing Suburb,1373,4,3.0,9.0,20,0,Unfurnished,1,0,3864706
+Ahmedabad,Mid-tier,3381,3,,10.0,7,0,Unfurnished,0,1,12158546
+Ahmedabad,Premium Residential,2177,5,5.0,17.0,18,2,Semi-Furnished,1,1,13917517
+Chennai,Developing Suburb,520,1,1.0,33.0,2,2,Semi-Furnished,0,1,2764752
+Hyderabad,Outskirts,2037,5,4.0,38.0,17,1,Unfurnished,1,0,7409694
+Mumbai,Developing Suburb,1764,1,1.0,22.0,20,0,Unfurnished,1,1,19902312
+Bangalore,Prime/CBD,1407,2,2.0,6.0,18,1,Semi-Furnished,1,1,21204242
+Bangalore,Mid-tier,1324,5,5.0,38.0,18,1,Semi-Furnished,1,1,10279291
+Delhi NCR,Prime/CBD,1044,5,4.0,2.0,14,0,Unfurnished,1,0,16294152
+Kolkata,Premium Residential,2432,4,4.0,11.0,5,1,Semi-Furnished,0,1,15601615
+Pune,Prime/CBD,3161,3,3.0,6.0,15,2,Unfurnished,1,1,35370116
+Mumbai,Mid-tier,3307,1,1.0,25.0,7,1,Semi-Furnished,0,1,36627691
+Delhi NCR,Developing Suburb,2468,1,1.0,32.0,15,0,Unfurnished,1,1,17662288
+Chennai,Prime/CBD,641,4,4.0,36.0,17,2,Semi-Furnished,0,0,5383721
+Mumbai,Mid-tier,2902,4,3.0,14.0,19,2,Unfurnished,0,0,41575090
+Ahmedabad,Mid-tier,3410,3,2.0,,15,1,Fully-Furnished,1,1,18130646
+Pune,Mid-tier,3068,3,3.0,6.0,10,1,Unfurnished,1,1,23981322
+Pune,Premium Residential,2750,5,4.0,31.0,6,2,Unfurnished,0,1,22529410
+Hyderabad,Mid-tier,2019,2,2.0,3.0,16,1,Unfurnished,1,1,15378319
+Ahmedabad,Developing Suburb,1202,3,2.0,19.0,16,0,Fully-Furnished,1,1,4943523
+Bangalore,Prime/CBD,1363,4,3.0,35.0,11,1,Semi-Furnished,1,1,17805147
+Chennai,Prime/CBD,468,3,3.0,31.0,12,1,Semi-Furnished,0,0,4134735
+Hyderabad,Mid-tier,1552,1,1.0,27.0,9,2,Fully-Furnished,1,1,9334198
+Delhi NCR,Outskirts,595,2,2.0,12.0,6,1,Fully-Furnished,1,0,4189020
+Ahmedabad,Developing Suburb,2587,5,4.0,0.0,13,1,Semi-Furnished,0,0,11038256
+Kolkata,Developing Suburb,2730,1,1.0,34.0,22,1,Unfurnished,1,1,9942016
+Chennai,Mid-tier,2759,1,1.0,29.0,0,0,Fully-Furnished,1,1,18152352
+Ahmedabad,Mid-tier,1145,2,2.0,35.0,16,1,Unfurnished,1,1,4733800
+Ahmedabad,Prime/CBD,2088,5,4.0,24.0,3,0,Semi-Furnished,0,1,15850294
+Chennai,Mid-tier,676,4,3.0,,20,0,Semi-Furnished,0,1,4493948
+Ahmedabad,Outskirts,460,5,4.0,18.0,4,0,Semi-Furnished,1,0,1436144
+Chennai,Mid-tier,2313,3,,0.0,19,0,Semi-Furnished,0,1,19184737
+Chennai,Outskirts,2499,1,1.0,4.0,23,2,Semi-Furnished,1,1,10432759
+Hyderabad,Developing Suburb,2600,3,3.0,21.0,22,0,Fully-Furnished,0,1,15400405
+Kolkata,Premium Residential,2172,4,3.0,23.0,24,1,Unfurnished,0,0,10766499
+Delhi NCR,Outskirts,1734,3,2.0,36.0,6,0,Unfurnished,0,0,10355666
+Jaipur,Prime/CBD,2237,5,5.0,35.0,9,1,Semi-Furnished,1,1,12666548
+Ahmedabad,Mid-tier,2991,3,3.0,35.0,16,0,Fully-Furnished,0,1,13557118
+Mumbai,Premium Residential,966,4,4.0,3.0,6,2,Unfurnished,1,1,15034119
+Ahmedabad,Prime/CBD,1971,4,,35.0,0,0,Unfurnished,1,1,10996471
+Mumbai,Mid-tier,1021,4,3.0,17.0,6,0,Unfurnished,1,1,12980947
+Bangalore,Premium Residential,2425,5,,15.0,23,2,Unfurnished,1,1,33968331
+Kolkata,Mid-tier,1600,4,4.0,17.0,10,0,Fully-Furnished,0,1,9502889
+Delhi NCR,Mid-tier,713,1,1.0,21.0,8,1,Semi-Furnished,0,1,5996922
+Ahmedabad,Prime/CBD,3254,4,4.0,1.0,11,0,Semi-Furnished,0,0,24598959
+Ahmedabad,Premium Residential,3295,3,3.0,20.0,2,0,Semi-Furnished,1,1,16672564
+Pune,Mid-tier,2544,3,3.0,35.0,3,0,Semi-Furnished,1,1,14500405
+Mumbai,Mid-tier,3328,3,2.0,38.0,3,2,Unfurnished,0,1,37607489
+Delhi NCR,Developing Suburb,1636,5,4.0,38.0,24,0,Unfurnished,0,0,11903799
+Hyderabad,Developing Suburb,3276,3,3.0,28.0,12,0,Semi-Furnished,1,1,18049832
+Lucknow,Developing Suburb,536,5,4.0,25.0,22,1,Unfurnished,0,1,1594754
+Chennai,Developing Suburb,1429,5,5.0,20.0,18,0,Semi-Furnished,1,1,8670066
+Delhi NCR,Mid-tier,3458,4,4.0,16.0,9,0,Unfurnished,0,0,33064011
+Chennai,Developing Suburb,2556,1,1.0,15.0,4,0,Unfurnished,1,1,11901453
+Hyderabad,Premium Residential,2994,4,4.0,30.0,6,0,Unfurnished,0,1,22611636
+Kolkata,Premium Residential,1061,4,4.0,8.0,23,1,Semi-Furnished,0,1,6471538
+Mumbai,Developing Suburb,2872,5,4.0,30.0,15,1,Unfurnished,0,0,31690531
+Kolkata,Mid-tier,3077,5,5.0,13.0,0,2,Fully-Furnished,0,1,19614859
+Hyderabad,Developing Suburb,2708,3,3.0,36.0,11,0,Unfurnished,0,0,14176282
+Lucknow,Developing Suburb,486,3,3.0,1.0,1,2,Semi-Furnished,0,0,1476329
+Bangalore,Developing Suburb,2912,4,,13.0,6,2,Fully-Furnished,1,1,28521995
+Chennai,Outskirts,2523,2,2.0,32.0,10,0,Fully-Furnished,0,1,9909265
+Jaipur,Mid-tier,2918,2,2.0,34.0,12,1,Fully-Furnished,1,1,11150460
+Mumbai,Premium Residential,2861,3,3.0,38.0,1,1,Unfurnished,0,1,34454232
+Jaipur,Mid-tier,3272,2,1.0,19.0,6,0,Unfurnished,1,0,10081757
+Chennai,Mid-tier,3342,3,2.0,1.0,14,0,Semi-Furnished,1,1,26406335
+Mumbai,Mid-tier,3173,5,5.0,18.0,24,1,Unfurnished,0,0,40442034
+Bangalore,Developing Suburb,2904,4,4.0,36.0,10,0,Unfurnished,0,1,16652602
+Chennai,Developing Suburb,1708,1,1.0,17.0,1,0,Fully-Furnished,0,1,8797641
+Mumbai,Mid-tier,2100,4,3.0,15.0,6,0,Semi-Furnished,0,1,28794365
+Hyderabad,Premium Residential,3100,3,2.0,3.0,3,1,Semi-Furnished,1,1,26658897
+Bangalore,Mid-tier,3119,3,2.0,11.0,10,2,Fully-Furnished,1,1,35750450
+Chennai,Premium Residential,894,4,3.0,28.0,1,2,Semi-Furnished,1,1,6737753
+Mumbai,Outskirts,2047,3,3.0,6.0,15,0,Semi-Furnished,1,0,19324794
+Ahmedabad,Mid-tier,2342,2,1.0,13.0,6,1,Semi-Furnished,1,0,10049730
+Lucknow,Premium Residential,1468,2,1.0,11.0,12,0,Unfurnished,1,1,5466660
+Lucknow,Prime/CBD,1824,3,2.0,34.0,4,1,Unfurnished,1,1,6267624
+Kolkata,Mid-tier,996,3,3.0,4.0,16,0,Fully-Furnished,0,0,5705683
+Mumbai,Mid-tier,849,2,2.0,16.0,20,1,Fully-Furnished,0,0,13257037
